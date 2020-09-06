@@ -103,7 +103,7 @@ http://203.150.107.30:8081/tested2iptv/154Stream_3HD/playlist.m3u8
 #EXTINF:51 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="VARIETY", FASHION TV
 http://dootvthai-hd.com/cmd/true/fashion-tv/playlist.m3u8
 #EXTINF:52 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="VARIETY", WFC
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
 #EXTINF:53 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="VARIETY", HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:54 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="VARIETY", WARNER TV
@@ -194,8 +194,8 @@ http://85.203.33.205:8080/aF416sLqb138/ihO0g177/19637
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:97 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="NEWS", BBC NEWS
 http://85.203.33.205:8080/aF416sLqb138/ihO0g177/14701
-#EXTINF:98 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="NEWS", CNBC
-http://85.203.33.205:8080/aF416sLqb138/ihO0g177/9028
+#EXTINF:98 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="NEWS", AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:99 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="NEWS", FRANCE 24
 http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/26047
 #EXTINF:100 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="NEWS", RUSSIA TODAY
@@ -340,3 +340,105 @@ http://210.90.167.190:9981/stream/channelid/1063582141
 #EXTINF:169 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="KOREA 한국", CINE PLUS
 http://210.90.167.190:9981/stream/channelid/1111599526
 #EXTINF:170 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="KOREA 한국", KCTV
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:171 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 1
+http://39.134.157.205/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:172 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 2
+http://39.134.157.205/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:173 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 3
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:174 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 4
+http://39.134.157.205/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:175 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 5
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+#EXTINF:176 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 6
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:177 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 7
+http://39.134.157.205/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:178 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 8
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+#EXTINF:179 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 9
+http://39.134.157.205/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:180 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 10
+http://39.134.157.205/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:181 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 11
+http://39.134.157.205/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:182 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 12
+http://39.134.157.205/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:183 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 13
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:184 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 14
+http://39.134.157.205/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:185 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 15
+http://39.134.157.205/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:186 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CGTN DOCUMENTARY
+http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
+#EXTINF:187 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 17
+http://39.134.157.205/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:188 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CGTN ENGLISH
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:189 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:190 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="CHINA 中国", CCTV 5+
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+
+#EXTINF:191 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="HONG KONG 香港", RTHK 31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+#EXTINF:192 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="HONG KONG 香港", RTHK 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:193 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="HONG KONG 香港", ATV 亚视
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
+#EXTINF:194 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="HONG KONG 香港", HKS 香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:195 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="HONG KONG 香港", TVB JADE
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+#EXTINF:196 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="MACAU 澳门", TDM 1
+http://61.244.22.4/ch1/ch1.live/index.m3u8
+#EXTINF:197 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="MACAU 澳门", TDM 2
+http://61.244.22.4/ch2/ch2.live/index.m3u8
+#EXTINF:198 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="MACAU 澳门", TDM 3
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+#EXTINF:199 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="MACAU 澳门", TDM 4
+http://61.244.22.4/ch4/sport_ch4.live/index.m3u8
+#EXTINF:200 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="MACAU 澳门", TDM 5
+http://61.244.22.4/ch5/info_ch5.live/index.m3u8
+#EXTINF:201 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="TEST CH", DOG TV FHD (TEST)
+http://p2prime.xyz:80/tvbox04/ucm352/9110
+#EXTINF:202 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="TEST CH", BLOOMBERG ASIA (TEST)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:203 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="TEST CH", A&E FHD (TEST)
+http://p2prime.xyz:80/tvbox04/ucm352/9020
+#EXTINF:204 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="TEST CH", AMC FHD (TEST)
+http://p2prime.xyz:80/tvbox04/ucm352/9019
+#EXTINF:205 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="TEST CH", AXN FHD (TEST)
+http://p2prime.xyz:80/tvbox04/ucm352/9018
+#EXTINF:206 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="TEST CH", CINEMAX FHD (TEST)
+http://p2prime.xyz:80/tvbox04/ucm352/14197
+#EXTINF:207 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="TEST CH", COMEDY CENTRAL FHD (TEST)
+http://p2prime.xyz:80/tvbox04/ucm352/14303
+#EXTINF:208 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="TEST CH", FCB TV (TEST)
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2574
+#EXTINF:209 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="TEST CH", F1 (TEST)
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2550
+#EXTINF:210 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="TEST CH", MTV (TEST)
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2527
+#EXTINF:211 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="UK", ITV 1 HD
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/24237
+#EXTINF:212 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="UK", ITV 2 HD
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/24239
+#EXTINF:213 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="UK", ITV 3 HD
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/24241
+#EXTINF:214 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="UK", ITV 4 HD
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/24243
+#EXTINF:215 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="UK", ITV BE HD
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/26049
+#EXTINF:216 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="UK", ITV LONDON HD
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/24235
+#EXTINF:217 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="UK", BBC ONE HD
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/24248
+#EXTINF:218 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="UK", BBC TWO HD
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/24232
+#EXTINF:219 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="UK", BBC THREE HD
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/24230
+#EXTINF:220 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/True_Corporation_%28Thailand%29.svg/220px-True_Corporation_%28Thailand%29.svg.png" group-title="UK", BBC FOUR HD
+http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/24234
