@@ -48,10 +48,10 @@ http://dootvthai-hd.com/cmd/api/true/FOX-ACTION/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 #EXTINF:24 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffgtN.png" group-title="MOVIE", FOX THAI
 http://dootvthai-hd.com/cmd/api/true/FOX-THAI/playlist.m3u8
-#EXTINF:25 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", TRUE FILM HD
-https://edge-n2.worldwidetv.club/Q67j4LaUHrDnLp6ZUaALBw/1599499589/livesport-abr/hd-tfilm/livesport/hd-tfilm_1080/chunks.m3u8
-#EXTINF:26 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", TRUE FILM HD 2
-https://edge-n4.worldwidetv.club/juZZIZI2FqBDfrxemUS3fQ/1599499652/livesport-abr/hd-tfilm2/livesport/hd-tfilm2_1080/chunks.m3u8
+#EXTINF:25 tvg-logo="https://sv1.picz.in.th/images/2020/09/09/O3Gr4u.png" group-title="MOVIE", STAR CHINESE MOVIES
+http://103.47.132.165/PLTV/88888888/224/3221227147/1.m3u8
+#EXTINF:26 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", TRUE FILM HD
+http://160.119.77.50/iptv/hd-tfilm.stream/chunks.m3u8
 #EXTINF:27 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", TRUE FILM ASIA
 http://27.254.149.109:8081/tumlive/FLA/chunks.m3u8
 #EXTINF:28 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", TRUE MOVIE HITS
@@ -59,7 +59,7 @@ http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
 #EXTINF:29 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", TRUE THAI FILM
 http://27.254.149.109:8081/tumlive/TFLM/chunks.m3u8
 #EXTINF:30 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", TRUE ASIAN SERIES HD
-http://dootvthai-hd.com/cmd/api/true/TRUE-ASIAN-SERIES-HD/playlist.m3u8
+http://160.119.77.50/iptv/hd-asian.stream/chunks.m3u8
 #EXTINF:31 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:32 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", HBO HITS
@@ -79,7 +79,7 @@ http://39.115.219.93:9981/stream/channelid/1688317096
 #EXTINF:39 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", MPLEX
 http://39.115.219.93:9981/stream/channelid/2140429671
 #EXTINF:40 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", AXN HD
-https://edge-n4.worldwidetv.club/TXV047A6AlUrhcgDoXA_hQ/1599500307/livesport-abr/hd-axn/livesport/hd-axn_1080/chunks.m3u8
+http://160.119.77.50/iptv/hd-axn.stream/chunks.m3u8
 
 #EXTINF:41 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="VARIETY", TRUE XZYTE HD
 http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
@@ -94,7 +94,7 @@ http://dootvthai-hd.com/cmd/api/true/TRUEID-ESPORTS/playlist.m3u8
 #EXTINF:46 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="VARIETY", TRUE ID STATION HD
 http://dootvthai-hd.com/cmd/api/true/IDSTATION/playlist.m3u8
 #EXTINF:47 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="VARIETY", VOICE TV
-https://video-weaver.bkk01.hls.ttvnw.net/v1/playlist/Cv4EFxJPLgPuUhCuA158u3vewNOS3wqKIl5fLXPHM-4vrYHFH37uBxh5dyhneljgWfD1uQnTj3N3N4D7K1Qi7_fev8UdAiae5s4JmydSQ9SCVCHP54463VY4SwvfUQK-IDU0RmlTbpWiCCEkIHH03bVulYhGMP6A1npbg3L8tw_PWZH001nTEX3_CfbsMvb-GUAiDLaGNy6F6cUXpt3DwTsQMX_eZSa5XFrxJer14Dv-vbE0uoVVt5wfmqOzfPHdy8A2yFkeDzDVw7gC2MYfF9tpSrc9xOky0BJMo050ozSwN7joga3zS0gaybxVMBaLChMPHY-qIuF7Duf09Sd6_J9gbMDRpJeUdL5jqzv9JtojEvgZfWQyt8xOTdpx7dAK97RKAvrnVpZdtI_5NxUx8ExB2GEVSdQhCPk8aSjyyQE5KYAOUBTa07QTVTzsEztfHAGQ4xiCB65J5ln_WNBxtNFWvaViUGsVQCrjf-zVzHs80iSZL2HxgCsPTwksMRqWKOmyMA-BLMh2lhMIQpKzWx4bR7Axr4LO398xRPSdNEU4CbDOvij2fM5zgCt7UjGcD4xSJjmQZB085W0M1Gy-x0jc3s2E8dZYI6bPglmz5jrEci4KqZMQiJogfh-D6puL-4y-DAroSEqnf_CnfpG3w5KKa4Za30CeKBnQIqUbbfnHMQtb4ikBUlSxiWFz5q81KrZ9ZA_I5-yZwuGL3aNpHu3n8iwiAPKPpCjqedtRpUlw816AlE5T9azOPSN4wMQCpi1y9RE6-9-LlfbuzJqHbXS_32QJgW4Py0PFHUrEZX-g0Q2f2YPaM3Zwi7fMhwM2QVacdN65cfpEqgLnF6KY1TISEIaYF7GTUG4xaYcj4K-SyHYaDG2JGnY5Qd8J-7WBDw.m3u8
+https://video-weaver.bkk01.hls.ttvnw.net/v1/playlist/Cv0E0Gier-eJcOvcYnCT0kdSesInRMd3Cy1e6M3v6hWjJmUkMfJkvFRFUufXIdHL5wWK-q3-cgCLBgFREVpirsP614rIZekrvwGNaK2-Wus4xqTEXY-jjkbBhgDHr7U4F6YBrsjBcjQALLS1upb1PHtLiEOLZeiaFSC4v77jU84msC1o9xOKWvwVM91Zv1Y_Iks6FK-Aivp3tDlwpSc_LoloP0Q89OOfia8J_rUcCXnn333S0b7bI1AMtOepm9BB9WjCHPGIC9oeyRIfTBnhFa4qWodrjR1tgS68oe4ISVtkpbcmRH4EafcKP9EYJtMbmCnJ-02PayBUgdTk7NY1akRpoZero94v2wumh9e8t1Prw_D-xCUR5ub2uvDGFYR-m1JF76zXw_hBOXFum8PUzcss8e-4H4gzZ0q10UVPX-gzJdAaaS4PtZmwuMPlUVWKQexYpTMaBKIUVvPRAsNXMlMggs418NNBnwoEniht49gNOfC2VcK8bzZ1Kda-Zsr1kIu7aRE5nFvjnyv1s8CBL4hk-Nfd9th5_HjbMrLm2K-NUpfbsFNVPy5v_T9JgI6YE0SnOTbqfeVIb7USgLhOVGT43VNChS0vATJkULdAB-YsrKQQ3rRvlUBdS6n1tJArKQew_dK9opxEV4av4RfiItZ7U-7uYyFNJyxUeEZe_dW9pY0ZDcwT1QOybFOZ1U-TJXAoo5d-oNUEcYTf4Np8U6sAl8Qp6DJj0vVRZ5BW6FQR1sDWXReR8BV0JIXIrcGyxS2ttri9P34nIsjmPFAcLW3g_fSgGFDN8lXzRZDG_pWpVLFZYlvAb0Bflc_3xHBl47OpCzB4N3iUXfGGKqtPBxIQcMih5cOYOtML-CghjjI6ixoMQ8ICaV-lW96VmM8z.m3u8
 #EXTINF:48 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="VARIETY", ASTV NEWS 1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:49 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="VARIETY", FAH WON MAI
@@ -145,9 +145,9 @@ http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
 #EXTINF:71 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="DOCUMENTARY", DISCOVERY
 http://keykingiptv.ddns.net/keyking/discovery_keyking/playlist.m3u8
 #EXTINF:72 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="DOCUMENTARY", NGC
-https://edge-n2.worldwidetv.club/IbkVRekzxPTBTbP_88zmMA/1599503489/livesport-abr/hd-natgeo/livesport/hd-natgeo_1080/chunks.m3u8
+http://dootvthai-hd.com/cmd/api/true/national-geographic-hd/playlist.m3u8
 #EXTINF:73 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="DOCUMENTARY", NGC WILD
-https://edge-n4.worldwidetv.club/n21rs5ga8qKeLrCY5p-DCg/1599503530/livesport-abr/hd-natgeowild/livesport/hd-natgeowild_1080/chunks.m3u8
+https://edge-n2.worldwidetv.club/YRD8fMVIXt7ooUVct0BEUw/1599685189/livesport-abr/hd-natgeowild/playlist.m3u8
 #EXTINF:74 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="DOCUMENTARY", HISTORY
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 #EXTINF:75 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="DOCUMENTARY", H2
@@ -185,11 +185,11 @@ http://85.203.33.5:8080/l63rJxz784/VQCXmb940/13103
 http://85.203.33.5:8080/l63rJxz784/VQCXmb940/9012
 
 #EXTINF:91 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", SBS MTV
-http://222.239.213.20:9981/stream/channelid/464614568
-#EXTINF:92 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", MBC M
-http://222.239.213.20:9981/stream/channelid/391483383
-#EXTINF:93 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", CHANNEL V
-http://14.169.92.193:8889/udp/232.84.2.132:9588
+http://110.9.158.173:9981/stream/channelid/1473641685
+#EXTINF:92 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", MTV ASIA
+http://203.154.177.124:8899/live/ch4/playlist.m3u8
+#EXTINF:93 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", MTV CHINA
+http://203.154.177.124:8899/live/ch16/playlist.m3u8
 #EXTINF:94 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", MTV MUSIC
 http://85.203.33.5:8080/l63rJxz784/VQCXmb940/7316
 #EXTINF:95 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", MTV HITS
@@ -204,145 +204,85 @@ http://85.203.33.5:8080/l63rJxz784/VQCXmb940/7315
 http://85.203.33.5:8080/l63rJxz784/VQCXmb940/13090
 #EXTINF:100 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", THE BOX
 http://31.220.0.135:8080/cJ9sBYOdAH/e7SmFrN8fp/37182
+#EXTINF:101 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", CHANNEL V (HD)
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:102 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", CHANNEL V
+http://103.47.132.165/PLTV/88888888/224/3221227133/1.m3u8
+#EXTINF:103 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", MAGIC TV
+http://31.220.0.135:8080/cJ9sBYOdAH/e7SmFrN8fp/8250
+#EXTINF:104 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", BOX HITS
+http://31.220.0.135:8080/cJ9sBYOdAH/e7SmFrN8fp/37183
+#EXTINF:105 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", KISS TV
+http://31.220.0.135:8080/cJ9sBYOdAH/e7SmFrN8fp/37184
+#EXTINF:106 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", TRACE VAULT
+http://31.220.0.135:8080/cJ9sBYOdAH/e7SmFrN8fp/37185
+#EXTINF:107 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", NOW 70
+http://31.220.0.135:8080/cJ9sBYOdAH/e7SmFrN8fp/37190
+#EXTINF:108 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", NOW 80
+http://31.220.0.135:8080/cJ9sBYOdAH/e7SmFrN8fp/37187
+#EXTINF:109 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", NOW 90
+http://31.220.0.135:8080/cJ9sBYOdAH/e7SmFrN8fp/37186
+#EXTINF:110 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", CLUBLAND
+http://31.220.0.135:8080/cJ9sBYOdAH/e7SmFrN8fp/37189
 
-#EXTINF:101 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE PREMIER LEAGUE 1
+#EXTINF:111 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE PREMIER LEAGUE 1
 http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
-#EXTINF:102 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE PREMIER LEAGUE 2
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
-#EXTINF:103 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE PREMIER LEAGUE 3
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
-#EXTINF:104 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE PREMIER LEAGUE 4
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
-#EXTINF:105 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE PREMIER LEAGUE 5
-https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
-#EXTINF:106 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", FOX SPORTS 1
-https://edge-n3.worldwidetv.club/CqoEjs7usCZvOV0mrO-GmQ/1599509002/livesport-abr/hd-foxsports1/livesport/hd-foxsports1_720/chunks.m3u8
-#EXTINF:107 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", FOX SPORTS 2
-https://live.rentm3u8.com/lBPBTCVS3lC5TGYKOQmI2A/1599509040/livesport-abr/sd-foxsports2/livesport/sd-foxsports2_720/chunks.m3u8
-#EXTINF:108 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", FOX SPORTS 3
-http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
-#EXTINF:109 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", BEIN SPORTS 1
+#EXTINF:112 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE PREMIER LEAGUE 2
+http://dootvthai-hd.com/cmd/true/ep1-2/playlist.m3u8
+#EXTINF:113 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE PREMIER LEAGUE 3
+http://dootvthai-hd.com/cmd/true/ep1-3/playlist.m3u8
+#EXTINF:114 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE PREMIER LEAGUE 4
+http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
+#EXTINF:115 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE PREMIER LEAGUE 5
+http://dootvthai-hd.com/cmd/true/ep1-5/playlist.m3u8
+#EXTINF:116 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", FOX SPORTS 1
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-HD/playlist.m3u8
+#EXTINF:117 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", FOX SPORTS 2
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-2-HD/playlist.m3u8
+#EXTINF:118 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", FOX SPORTS 3
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-3/playlist.m3u8
+#EXTINF:119 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", BEIN SPORTS 1
 http://keykingiptv.ddns.net/keyking/bein1_keyking/playlist.m3u8
-#EXTINF:110 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", BEIN SPORTS 2
+#EXTINF:120 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", BEIN SPORTS 2
 http://keykingiptv.ddns.net/keyking/bein2_keyking/playlist.m3u8
-#EXTINF:111 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 1
-https://edge-n1.worldwidetv.club/pHXkIsCRZMkRPA1Fih5G_w/1599509134/livesport-abr/af-supersport1/livesport/af-supersport1_480/chunks.m3u8
-#EXTINF:112 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 2
-https://edge-n2.worldwidetv.club/2W_4pGMLdI5YTU6OxS4Tig/1599509181/livesport-abr/af-supersport2/livesport/af-supersport2_480/chunks.m3u8
-#EXTINF:113 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 3
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/af-supersport3/liveorigin/af-supersport3_480/chunks.m3u8?nimblesessionid=9643784&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjowNjo0NyBQTSZoYXNoX3ZhbHVlPU9UQTlkMzlHMmhBNkt2Nms2QWh0R0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05NTIzNTEzfGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg3NjA3fGFmLXN1cGVyc3BvcnQzfDk1MjM1MTN8NDkuNDkuMjQwLjYy
-#EXTINF:114 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 4
-https://edge-n4.worldwidetv.club/uDFheZBw6b6KfPrqcgw3Mg/1599509294/livesport-abr/af-supersport4/livesport/af-supersport4_480/chunks.m3u8
-#EXTINF:115 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 5
-https://edge-n3.worldwidetv.club/Zrty3BUno5578rO-SplRXw/1599509313/livesport-abr/af-supersport5/livesport/af-supersport5_480/chunks.m3u8
-#EXTINF:116 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 6
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/af-supersport6/liveorigin/af-supersport6_480/chunks.m3u8?nimblesessionid=9643825&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjowODo0NSBQTSZoYXNoX3ZhbHVlPWl4a2EvbjdjUzlKT1A3aFFxY1psN3c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xMDMwMTYzfGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg3NzI1fGFmLXN1cGVyc3BvcnQ2fDEwMzAxNjN8NDkuNDkuMjQwLjYy
-#EXTINF:117 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 7
-https://edge-n2.worldwidetv.club/Hz72E5xZ3MZM1keXAmip5w/1599509336/livesport-abr/af-supersport7/livesport/af-supersport7_480/chunks.m3u8
-#EXTINF:118 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 8
-https://edge-n3.worldwidetv.club/IAu1u25KVsDtn-Ib79x5wA/1599509355/livesport-abr/af-supersport8/livesport/af-supersport8_480/chunks.m3u8
-#EXTINF:119 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 9
-https://edge-n1.worldwidetv.club/5ufVAQFe2Dshrg-YHW5oUA/1599509366/livesport-abr/af-supersport9/livesport/af-supersport9_480/chunks.m3u8
-#EXTINF:120 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 10
-https://edge-n1.worldwidetv.club/ULNh-bU-FE_zqG0mq9RZtg/1599509377/livesport-abr/af-supersport10/livesport/af-supersport10_480/chunks.m3u8
-#EXTINF:121 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 11
-https://edge-n2.worldwidetv.club/Np1wqVgMYLJ-cP7VdZMQYQ/1599509398/livesport-abr/af-supersport11/livesport/af-supersport11_480/chunks.m3u8
-#EXTINF:122 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SUPER SPORT 12
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/af-supersport12/liveorigin/af-supersport12_480/chunks.m3u8?nimblesessionid=9643861&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjoxMDoxMCBQTSZoYXNoX3ZhbHVlPXV4Z3F3SFNvSVEyelJ4ZWluRGU5WWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03NTQzODYzfGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg3ODEwfGFmLXN1cGVyc3BvcnQxMnw3NTQzODYzfDQ5LjQ5LjI0MC42Mg==
-#EXTINF:123 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 1
+#EXTINF:121 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 1
 http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
-#EXTINF:124 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 2
+#EXTINF:122 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 2
 http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
-#EXTINF:125 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 3
+#EXTINF:123 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 3
 http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
-#EXTINF:126 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 4
+#EXTINF:124 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 4
 http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
-#EXTINF:127 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE TENNIS HD
-https://edge-n2.worldwidetv.club/_eDlFZd7gBbWang19vFtgQ/1599509608/livesport-abr/hd-tennis/livesport/hd-tennis_720/chunks.m3u8
-#EXTINF:128 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", NBA TV
+#EXTINF:125 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE TENNIS HD
+http://203.150.107.30:8081/tested2iptv/core3/playlist.m3u8
+#EXTINF:126 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 7
+http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
+#EXTINF:127 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", NBA TV
 http://dootvthai-hd.com/cmd/true/NBA-TV/playlist.m3u8
-#EXTINF:129 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", NFL NETWORK
+#EXTINF:128 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", NFL NETWORK
 http://dootvthai-hd.com/cmd/true/NFL-NETWORK/playlist.m3u8
-#EXTINF:130 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", MOTOR VISION HD
+#EXTINF:129 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", MOTOR VISION HD
 http://dootvthai-hd.com/cmd/api/true/MOTOR-VISION/playlist.m3u8
-#EXTINF:131 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TSN HD 1
-https://edge-n2.worldwidetv.club/MylXicVmRKGUrk3i9MBAEw/1599509669/livesport-abr/ca-tsn1/livesport/ca-tsn1_480/chunks.m3u8
-#EXTINF:132 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TSN HD 2
-https://edge-n2.worldwidetv.club/YA8pOtPdp3WMoU59xVgBCg/1599509704/livesport-abr/ca-tsn2/livesport/ca-tsn2_480/chunks.m3u8
-#EXTINF:133 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TSN HD 3
-https://edge-n4.worldwidetv.club/_T29pF0BFsMmDcB_ZNu5Ag/1599509718/livesport-abr/ca-tsn3/livesport/ca-tsn3_480/chunks.m3u8
-#EXTINF:134 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TSN HD 4
-https://edge-n2.worldwidetv.club/ZO6Ys67JcT67e3chn3HicA/1599509733/livesport-abr/ca-tsn4/livesport/ca-tsn4_480/chunks.m3u8
-#EXTINF:135 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TSN HD 5
-https://edge-n3.worldwidetv.club/CWLNV0GbQRLNk474iHx7aw/1599509750/livesport-abr/ca-tsn5/livesport/ca-tsn5_480/chunks.m3u8
-#EXTINF:136 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", ESPN HD
-https://edge-n4.worldwidetv.club/K04N6kL94ruh5UDD6APBRw/1599509789/livesport-abr/us-espn1/livesport/us-espn1_480/chunks.m3u8
-#EXTINF:137 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", BT SPORT 1
-https://edge-n1.worldwidetv.club/6T_D8EU79CExgEpcIgzXOw/1599509890/livesport-abr/uk-btsport1hd/livesport/uk-btsport1hd_720/chunks.m3u8
-#EXTINF:138 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", BT SPORT 2
-https://live.rentm3u8.com/8MKQyNnhhQIlRIET9GZrYw/1599509926/livesport-abr/uk-btsport2hd/livesport/uk-btsport2hd_720/chunks.m3u8
-#EXTINF:139 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", BT SPORT 3
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/uk-btsport3hd/liveorigin/uk-btsport3hd_720/chunks.m3u8?nimblesessionid=9644037&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjoxODo1OCBQTSZoYXNoX3ZhbHVlPVdhK0YrNnpqdDJoOXg0aENXZ1g3Tmc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD00MzU4NzQ0fGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg4MzM4fHVrLWJ0c3BvcnQzaGR8NDM1ODc0NHw0OS40OS4yNDAuNjI=
-#EXTINF:140 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", NHL NETWORK
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/us-nhl/liveorigin/us-nhl_480/chunks.m3u8?nimblesessionid=9644053&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjoxOTo0OCBQTSZoYXNoX3ZhbHVlPUVTckJCTmNyd2xpQU9HREVlRmRBcGc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD00ODQ1OTM0fGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg4Mzg4fHVzLW5obHw0ODQ1OTM0fDQ5LjQ5LjI0MC42Mg==
-#EXTINF:141 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", LFCTV
-http://85.203.33.205:8080/aF416sLqb138/ihO0g177/3568
-#EXTINF:142 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", MUTV
-http://85.203.33.205:8080/aF416sLqb138/ihO0g177/2655
-#EXTINF:143 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", RMTV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:144 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", FCBTV
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/2574
-#EXTINF:145 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", DEL SPORT 1
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/de-bblsport1/liveorigin/de-bblsport1_480/chunks.m3u8?nimblesessionid=9644232&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjoyODoyNyBQTSZoYXNoX3ZhbHVlPU5yN3NLOWJGd004dHhXeUtDNnc5Nnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD00NDE3OTY3fGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg4OTA3fGRlLWJibHNwb3J0MXw0NDE3OTY3fDQ5LjQ5LjI0MC42Mg==
-#EXTINF:146 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", DEL SPORT 2
-https://edge-n4.worldwidetv.club/O_u7WNC7xbUvzA0C59O6MA/1599510531/livesport-abr/de-bblsport2/livesport/de-bblsport2_480/chunks.m3u8
-#EXTINF:147 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", DEL SPORT 3
-https://edge-n3.worldwidetv.club/eG6YquX-EF1VcuIwWLhhUA/1599510544/livesport-abr/de-bblsport3/livesport/de-bblsport3_480/chunks.m3u8
-#EXTINF:148 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", DEL SPORT 4
-https://edge-n4.worldwidetv.club/HIFFKde-nwVqHHTeFNvlXQ/1599510566/livesport-abr/de-bblsport4/livesport/de-bblsport4_480/chunks.m3u8
-#EXTINF:149 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", DEL SPORT 5
-https://edge-n4.worldwidetv.club/CZx6E3xpKfkwX1esFKDUSw/1599510579/livesport-abr/de-bblsport5/livesport/de-bblsport5_480/chunks.m3u8
-#EXTINF:150 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", DEL SPORT 6
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/de-bblsport6/liveorigin/de-bblsport6_480/chunks.m3u8?nimblesessionid=9644263&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjoyOTo1MSBQTSZoYXNoX3ZhbHVlPWxZM3FpUnFKVUJxRWd3blVpRDhMbkE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xNzkzNDQ0fGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg4OTkxfGRlLWJibHNwb3J0NnwxNzkzNDQ0fDQ5LjQ5LjI0MC42Mg==
-#EXTINF:151 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SKY SPORT 1
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/de-skysport1/liveorigin/de-skysport1_480/chunks.m3u8?nimblesessionid=9644287&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjozMDo1NiBQTSZoYXNoX3ZhbHVlPWRKYVRmb09EVy84YUZDVHk4cU52Y1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xNjY2MjA4fGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg5MDU2fGRlLXNreXNwb3J0MXwxNjY2MjA4fDQ5LjQ5LjI0MC42Mg==
-#EXTINF:152 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SKY SPORT 2
-https://edge-n3.worldwidetv.club/IIvHL0Zqir_kAR3mKK32YA/1599510696/livesport-abr/de-skysport2/livesport/de-skysport2_480/chunks.m3u8
-#EXTINF:153 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", ORF SPORT PLUS
-https://edge-n4.worldwidetv.club/FYImu5GeDFEq0EaZsuEl2w/1599510720/livesport-abr/de-sport1plus/livesport/de-sport1plus_480/chunks.m3u8
-#EXTINF:154 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", VIASAT SPORT PREMIUM
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/se-viasatsport-premium/liveorigin/se-viasatsport-premium_480/chunks.m3u8?nimblesessionid=9644321&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjozMjo0MCBQTSZoYXNoX3ZhbHVlPVMyVkdOL3dISnlnTXBweUcwRUlhWXc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD02Nzc4MTY3fGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg5MTYwfHNlLXZpYXNhdHNwb3J0LXByZW1pdW18Njc3ODE2N3w0OS40OS4yNDAuNjI=
-#EXTINF:155 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SKY SPORT F1
-https://edge-n1.worldwidetv.club/yBEuwMb15hTiNPTJbQ3XYQ/1599510811/livesport-abr/uk-skysports-f1/livesport/uk-skysports-f1_720/chunks.m3u8
-#EXTINF:156 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SKY SPORT CRICKET
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/uk-skysports-cricket/liveorigin/uk-skysports-cricket_720/chunks.m3u8?nimblesessionid=9644344&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjozNDoxMSBQTSZoYXNoX3ZhbHVlPXFjVTBQejNwVit6c0ZJSkV2YkQrTUE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03NTE1NzQwfGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg5MjUxfHVrLXNreXNwb3J0cy1jcmlja2V0fDc1MTU3NDB8NDkuNDkuMjQwLjYy
-#EXTINF:157 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SKY SPORT PREMIER LEAGUE
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/uk-skysports-epl/liveorigin/uk-skysports-epl_720/chunks.m3u8?nimblesessionid=9644364&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjozNDo1OSBQTSZoYXNoX3ZhbHVlPTJJZ1pad0d6cHV6bUNuaGU4TTdHTnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD02MTI0MTM4fGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg5Mjk5fHVrLXNreXNwb3J0cy1lcGx8NjEyNDEzOHw0OS40OS4yNDAuNjI=
-#EXTINF:158 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", EUROSPORTS 4K
+#EXTINF:130 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", EUROSPORTS 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000
-#EXTINF:159 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", GOLF CHANNEL
-https://vodcache.worldwidetv.club/hmcb4rf66f/liveorigin-abr/hd-golf/liveorigin/hd-golf_720/chunks.m3u8?nimblesessionid=9644419&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjozNzo0MCBQTSZoYXNoX3ZhbHVlPVZ0N3BNRTNsRHhPNm9ocFkxc0hmRHc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD02ODUxOTY2fGRvb2JhbGw2NnxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuODMgU2FmYXJpLzUzNy4zNnwxNTk5NDg5NDYwfGhkLWdvbGZ8Njg1MTk2Nnw0OS40OS4yNDAuNjI=
 
-#EXTINF:160 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", SPORT DIGITAL FUSSBALL
-https://edge-n3.worldwidetv.club/CooyhL2U1DH_0JHC58I5cw/1599511100/livesport-abr/de-sportdigital/livesport/de-sportdigital_480/chunks.m3u8
-#EXTINF:161 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", CNN HD
+#EXTINF:131 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", CNN HD
 http://85.203.33.5:8080/l63rJxz784/VQCXmb940/9029
-#EXTINF:162 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", NHK WORLD
+#EXTINF:132 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", NHK WORLD
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:163 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", BLOOMBERG NEWS
+#EXTINF:133 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", BLOOMBERG NEWS
 http://85.203.33.5:8080/l63rJxz784/VQCXmb940/18183
-#EXTINF:164 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", AL JAZEERA HD
+#EXTINF:134 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", AL JAZEERA HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:165 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", DW HD
+#EXTINF:135 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", DW HD
 http://dootvthai-hd.com/cmd/true/deutsche-welle/playlist.m3u8
-#EXTINF:166 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", CHANNEL NEWS ASIA
+#EXTINF:136 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", CHANNEL NEWS ASIA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:167 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", BBC NEWS HD
+#EXTINF:137 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", BBC NEWS HD
 http://85.203.33.5:8080/l63rJxz784/VQCXmb940/14701
-#EXTINF:168 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", YTN NEWS
+#EXTINF:138 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", YTN NEWS
 http://dootvthai-hd.com/cmd/true/YTN/playlist.m3u8
-#EXTINF:169 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", RUSSIA TODAY
-http://red.ipfox.org:8080/spider_tB1HCn/YcWRSBLv/26043
-#EXTINF:170 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", BLOOMBERG ASIA
+#EXTINF:139 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", RUSSIA TODAY
+http://rv.therevenge.co:80/690225331074517/690225331074517/69931
+#EXTINF:140 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="NEWS", BLOOMBERG ASIA
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
