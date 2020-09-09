@@ -57,7 +57,7 @@ http://27.254.149.109:8081/tumlive/FLA/chunks.m3u8
 #EXTINF:28 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", TRUE MOVIE HITS
 http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
 #EXTINF:29 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", TRUE THAI FILM
-http://27.254.149.109:8081/tumlive/TFLM/chunks.m3u8
+http://160.119.77.50/iptv/sd-thaifilm.stream/chunks.m3u8
 #EXTINF:30 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", TRUE ASIAN SERIES HD
 http://160.119.77.50/iptv/hd-asian.stream/chunks.m3u8
 #EXTINF:31 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MOVIE", HBO
@@ -147,7 +147,7 @@ http://keykingiptv.ddns.net/keyking/discovery_keyking/playlist.m3u8
 #EXTINF:72 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="DOCUMENTARY", NGC
 http://dootvthai-hd.com/cmd/api/true/national-geographic-hd/playlist.m3u8
 #EXTINF:73 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="DOCUMENTARY", NGC WILD
-https://edge-n2.worldwidetv.club/YRD8fMVIXt7ooUVct0BEUw/1599685189/livesport-abr/hd-natgeowild/playlist.m3u8
+http://160.119.77.50/iptv/hd-natgeo.stream/chunks.m3u8
 #EXTINF:74 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="DOCUMENTARY", HISTORY
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 #EXTINF:75 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="DOCUMENTARY", H2
@@ -181,8 +181,8 @@ http://dootvthai-hd.com/cmd/true/TRUE-SPARK-PLAY/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/TRUE-SPARK-JUMP/playlist.m3u8
 #EXTINF:89 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", CARTOON NETWORK (US)
 http://85.203.33.5:8080/l63rJxz784/VQCXmb940/13103
-#EXTINF:90 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", NICK (US)
-http://85.203.33.5:8080/l63rJxz784/VQCXmb940/9012
+#EXTINF:90 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", ANIMAX
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
 
 #EXTINF:91 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", SBS MTV
 http://110.9.158.173:9981/stream/channelid/1473641685
@@ -205,7 +205,7 @@ http://85.203.33.5:8080/l63rJxz784/VQCXmb940/13090
 #EXTINF:100 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", THE BOX
 http://31.220.0.135:8080/cJ9sBYOdAH/e7SmFrN8fp/37182
 #EXTINF:101 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", CHANNEL V (HD)
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:102 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", CHANNEL V
 http://103.47.132.165/PLTV/88888888/224/3221227133/1.m3u8
 #EXTINF:103 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="MUSIC", MAGIC TV
@@ -254,7 +254,7 @@ http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
 #EXTINF:124 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 4
 http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 #EXTINF:125 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE TENNIS HD
-http://203.150.107.30:8081/tested2iptv/core3/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/true/TRUE-TENNIS-HD/playlist.m3u8
 #EXTINF:126 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", TRUE SPORTS 7
 http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
 #EXTINF:127 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="SPORT", NBA TV
