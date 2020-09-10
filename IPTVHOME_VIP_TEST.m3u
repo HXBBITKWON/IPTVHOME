@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", KBS 1
+https://iptvhome-ra2eye.cdn.byteark.com/stream/channelid/397547846
+#EXTINF:2 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", KBS 2
+https://iptvhome-ra2eye.cdn.byteark.com/1/stream/channelid/949507373
+#EXTINF:3 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", EBS 1
+https://iptvhome-ra2eye.cdn.byteark.com/2/stream/channelid/1001986086
+#EXTINF:4 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", EBS 2
+https://iptvhome-ra2eye.cdn.byteark.com/3/stream/channelid/342977833
+#EXTINF:5 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", MBC
+https://iptvhome-ra2eye.cdn.byteark.com/4/stream/channelid/2001810046
+#EXTINF:6 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", SBS
+https://iptvhome-ra2eye.cdn.byteark.com/5/stream/channelid/165552443
+#EXTINF:7 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", TVN
+https://iptvhome-ra2eye.cdn.byteark.com/6/stream/channelid/1319070103
+#EXTINF:8 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", MNET
+https://iptvhome-ra2eye.cdn.byteark.com/7/stream/channelid/1429176776
+#EXTINF:9 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", ONSTYLE
+https://iptvhome-ra2eye.cdn.byteark.com/8/stream/channelid/1847482104
+#EXTINF:10 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", OLIVE
+https://iptvhome-ra2eye.cdn.byteark.com/9/stream/channelid/289637783
+#EXTINF:11 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", SBS MTV
+https://iptvhome-ra2eye.cdn.byteark.com/10/stream/channelid/1538572721
+#EXTINF:12 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", CHANNEL [V]
+https://iptvhome-ra2eye.cdn.byteark.com/PLTV/88888888/224/3221227133/1.m3u8
+#EXTINF:13 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", X TVN
+https://iptvhome-ra2eye.cdn.byteark.com/11/stream/channelid/1562490420
+#EXTINF:14 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", O TVN
+https://iptvhome-ra2eye.cdn.byteark.com/12/stream/channelid/1528155706
+#EXTINF:15 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", OCN
+https://iptvhome-ra2eye.cdn.byteark.com/13/stream/channelid/646333097
+#EXTINF:16 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", K-STAR
+https://iptvhome-ra2eye.cdn.byteark.com/14/stream/channelid/1770767386
+#EXTINF:17 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", MBC DRAMA
+https://iptvhome-ra2eye.cdn.byteark.com/15/stream/channelid/108431642
+#EXTINF:18 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", KBS DRAMA
+https://iptvhome-ra2eye.cdn.byteark.com/16/stream/channelid/478657774
+#EXTINF:19 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", SBS PLUS
+https://iptvhome-ra2eye.cdn.byteark.com/17/stream/channelid/2079226850
+#EXTINF:20 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", MBC EVERY1
+https://iptvhome-ra2eye.cdn.byteark.com/18/stream/channelid/2087508959
