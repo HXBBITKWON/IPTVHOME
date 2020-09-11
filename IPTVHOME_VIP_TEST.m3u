@@ -39,3 +39,23 @@ https://iptvhome-ra2eye.cdn.byteark.com/16/stream/channelid/478657774
 https://iptvhome-ra2eye.cdn.byteark.com/17/stream/channelid/2079226850
 #EXTINF:20 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", MBC EVERY1
 https://iptvhome-ra2eye.cdn.byteark.com/18/stream/channelid/2087508959
+#EXTINF:21 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", RTHK 31
+https://iptvhome-ra2eye.cdn.byteark.com/channel.1.m3u8
+#EXTINF:22 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", RTHK 32
+https://iptvhome-ra2eye.cdn.byteark.com/1//channel.2.m3u8
+#EXTINF:23 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", VIU TV
+https://iptvhome-ra2eye.cdn.byteark.com/2//channel.20.m3u8
+#EXTINF:24 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", TVB 翡翠台
+https://iptvhome-ra2eye.cdn.byteark.com/3//channel.18.m3u8
+#EXTINF:25 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", TVB 無綫新聞台
+https://iptvhome-ra2eye.cdn.byteark.com/4//channel.10.m3u8
+#EXTINF:26 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", TVB 星河
+http://188.40.76.108:25461/mytv01/uSIRzmks51/28
+#EXTINF:27 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", STAR MOVIES HD
+http://188.40.76.108:25461/mytv01/uSIRzmks51/70
+#EXTINF:28 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", EBC 東森洋片 HD
+http://188.40.76.108:25461/mytv01/uSIRzmks51/76
+#EXTINF:29 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", EBC 東森電影 HD
+http://188.40.76.108:25461/mytv01/uSIRzmks51/77
+#EXTINF:30 tvg-logo="https://sv1.picz.in.th/images/2020/09/11/OTP2Og.png" group-title="LG U+", PHOENIX MOVIES 凤凰卫视电影
+http://188.40.76.108:25461/mytv01/uSIRzmks51/78
