@@ -1,0 +1,4 @@
+CH 3 HD (TRUE),http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
+CH 5 HD (TRUE),http://dootvthai-hd.com/cmd/api/true/CH5-HD/playlist.m3u8
+CH 7 HD (TRUE),http://dootvthai-hd.com/cmd/api/true/CH7-HD/playlist.m3u8
+MCOT HD (TRUE),http://dootvthai-hd.com/cmd/api/true/9MCOT-HD/playlist.m3u8
