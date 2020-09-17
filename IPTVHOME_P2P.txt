@@ -23,4 +23,38 @@ FOX ACTION MOVIES (TH),http://dootvthai-hd.com/cmd/api/true/FOX-ACTION/playlist.
 FOX FAMILY MOVIES (TH),http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 FOX THAI (TH),http://dootvthai-hd.com/cmd/api/true/FOX-THAI/playlist.m3u8
 AXN HD (TH),http://160.119.77.50/iptv/hd-axn.stream/chunks.m3u8
+STAR MOVIES (TH),http://188.40.76.108:25461/mytv01/uSIRzmks51/70
+TRUE FILM HD (TH),http://160.119.77.50/iptv/hd-tfilm.stream/chunks.m3u8
+TRUE ASIAN SERIES (TH),http://160.119.77.50/iptv/hd-asian.stream/chunks.m3u8
+TRUE THAI FILM (TH),http://160.119.77.50/iptv/sd-thaifilm.stream/chunks.m3u8
+TRUE SERIES (TH),http://160.119.77.50/iptv/sd-series.stream/chunks.m3u8
+TRUE XZYTE HD (TH),http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
+TRUE INSIDE HD (TH),http://dootvthai-hd.com/cmd/api/true/TRUE-INSIDE-HD/playlist.m3u8
+FOOD NETWORK (TH),http://dootvthai-hd.com/cmd/api/true/FOOD-NETWORK-HD/playlist.m3u8
+AFN (TH),http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
+KBS WORLD (TH),http://dootvthai-hd.com/cmd/api/true/KBS-WORLD-HD/playlist.m3u8
+LIFETIME (TH),http://dootvthai-hd.com/cmd/api/true/LIFE-TIME/playlist.m3u8
+TVN ASIA (TH),http://dootvthai-hd.com/cmd/api/true/TVN/playlist.m3u8
+BLUEANT ENTERTAINMENT (TH),http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-ENTERTAINMENT/playlist.m3u8
+BLUEANT EXTREME (TH),http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-EXTREME/playlist.m3u8
+GEM HD (TH),http://203.150.107.30:8081/tested2iptv/core207/playlist.m3u8
+WARNER TV (TH),http://dootvthai-hd.com/cmd/api/true/WARNER-HD/playlist.m3u8
+PARAMOUNT NETWORK (TH),http://dootvthai-hd.com/cmd/api/true/PARAMOUNT-HD/playlist.m3u8
+FASHION TV (TH),http://dootvthai-hd.com/cmd/true/fashion-tv/playlist.m3u8
+WFC (TH),http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+HD FASHION (TH),http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+TRUE MUSIC (TH),http://dootvthai-hd.com/cmd/true/true-music-hd/playlist.m3u8
+CHANNEL V (TH),http://103.47.132.165/PLTV/88888888/224/3221227133/1.m3u8
+VERY TV (TH),http://dootvthai-hd.com/cmd/true/verytv/playlist.m3u8
+KMTV HD (TH),http://dootvthai-hd.com/cmd/true/kmtv-hd/playlist.m3u8
+I-CONCERT (TH),http://dootvthai-hd.com/cmd/api/true/Stringray-iConcerts-HD/playlist.m3u8
+NHK G (日本),vjms://58.215.133.154:8500/live/cid=317
+NHK E (日本),vjms://58.215.133.154:8500/live/cid=318
+J SPORTS 1 (日本),p8p://0198.02686.cc:16871/5d414f0c000c884875f633b8399ef99b.ts
+J SPORTS 2 (日本),p8p://0198.02686.cc:16871/5d414f0d0008fadf75f636b74704d31b.ts
+J SPORTS 3 (日本),p8p://0198.02686.cc:16871/5d414f0e00038bf575f6393b9482ee08.ts
+J SPORTS 4 (日本),p8p://0198.02686.cc:16871/5d414f0e000d818675f63bc8452f12fd.ts
 MTV (日本),vjms://58.215.133.154:8500/live/cid=52#vjms://122.155.180.8:8500:3502/live/cid=52
+Movieplus (日本),vjms://58.215.133.154:8500/live/cid=497
+KBS WORLD (日本),vjms://122.155.180.8:8500/live/cid=216#vjms://58.215.41.184:8500:3502/live/cid=216
+CINEMA 洋片 (日本),vjms://122.155.180.8:8500/live/cid=209#vjms://122.155.180.8:8500:3502/live/cid=209#vjms://122.155.180.8:8500:5021/live/cid=209#vjms://58.215.41.184:8500:3502/live/cid=209
