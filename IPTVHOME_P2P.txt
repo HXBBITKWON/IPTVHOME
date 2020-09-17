@@ -1,4 +1,26 @@
-CH 3 HD (TRUE),http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
-CH 5 HD (TRUE),http://dootvthai-hd.com/cmd/api/true/CH5-HD/playlist.m3u8
-CH 7 HD (TRUE),http://dootvthai-hd.com/cmd/api/true/CH7-HD/playlist.m3u8
-MCOT HD (TRUE),http://dootvthai-hd.com/cmd/api/true/9MCOT-HD/playlist.m3u8
+CH 3 HD (TH),http://dootvthai-hd.com/cmd/api/TH/CH3-HD/playlist.m3u8
+CH 5 HD (TH),http://dootvthai-hd.com/cmd/api/TH/CH5-HD/playlist.m3u8
+CH 7 HD (TH),http://dootvthai-hd.com/cmd/api/TH/CH7-HD/playlist.m3u8
+MCOT HD (TH),http://dootvthai-hd.com/cmd/api/TH/9MCOT-HD/playlist.m3u8
+NBT HD (TH),http://dootvthai-hd.com/cmd/api/TH/NBT-HD/playlist.m3u8
+NBT CENTRAL (TH),http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+THAIPBS HD (TH),http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+ALTV HD (TH),https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+THAIRATH TV (TH),http://dootvthai-hd.com/cmd/api/TH/THAIRATHTV-HD/playlist.m3u8
+AMARIN TV (TH),http://dootvthai-hd.com/cmd/api/TH/AMARINTV-HD/playlist.m3u8
+ONE 31 (TH),http://dootvthai-hd.com/cmd/api/TH/ONE-HD/playlist.m3u8
+NATION TV (TH),http://dootvthai-hd.com/cmd/api/TH/NATIONTV/playlist.m3u8
+WORKPOINT TV (TH),http://dootvthai-hd.com/cmd/api/TH/WORKPOINTTV/playlist.m3u8
+TH4U (TH),http://dootvthai-hd.com/cmd/api/TH/TH4U/playlist.m3u8
+GMM 25 (TH),https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+CH 8 (TH),http://dootvthai-hd.com/cmd/api/TH/CH8-HD/playlist.m3u8
+TNN (TH),http://dootvthai-hd.com/cmd/api/TH/TNN-16/playlist.m3u8
+NEW 18 (TH),https://cdn161.cloud-streaming.com/ilike4kin_x6/new18_720p/playlist.m3u8
+MONO 29 (TH),http://dootvthai-hd.com/cmd/api/TH/mono29/playlist.m3u8
+PPTV HD (TH),http://dootvthai-hd.com/cmd/api/TH/pptv-hd/playlist.m3u8
+FOX MOVIES (TH),http://dootvthai-hd.com/cmd/api/true/FOX-MOVIE/playlist.m3u8
+FOX ACTION MOVIES (TH),http://dootvthai-hd.com/cmd/api/true/FOX-ACTION/playlist.m3u8
+FOX FAMILY MOVIES (TH),http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
+FOX THAI (TH),http://dootvthai-hd.com/cmd/api/true/FOX-THAI/playlist.m3u8
+AXN HD (TH),http://160.119.77.50/iptv/hd-axn.stream/chunks.m3u8
+MTV (日本),vjms://58.215.133.154:8500/live/cid=52#vjms://122.155.180.8:8500:3502/live/cid=52
