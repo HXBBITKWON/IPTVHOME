@@ -1,0 +1,120 @@
+CH 3 HD,https://cdn161.cloud-streaming.com/ilike4kin_x6/3hd_720p/chunks.m3u8
+CH 5 HD,https://cdn161.cloud-streaming.com/ilike4kin_x6/5hd_720p/chunks.m3u8
+CH 7 HD,https://cdn161.cloud-streaming.com/ilike4kin_x6/7hd_720p/chunks.m3u8
+MCOT HD,https://cdn161.cloud-streaming.com/ilike4kin_x6/mcothd_720p/chunks.m3u8
+NBT HD,https://cdn161.cloud-streaming.com/ilike4kin_x6/nbt_720p/playlist.m3u8
+NBT CENTRAL,http://live.prd.go.th:1935/live/ch9_L.sdp/playlist.m3u8
+ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+THAIPBS HD,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+THAIRATH TV,https://cdn161.cloud-streaming.com/ilike4kin_x6/thairath_720p/chunks.m3u8
+AMARIN TV,https://cdn161.cloud-streaming.com/ilike4kin_x6/amarintv_720p/chunks.m3u8
+ONE 31,https://cdn161.cloud-streaming.com/ilike4kin_x6/one_720p/chunks.m3u8
+NATION TV,https://cdn161.cloud-streaming.com/ilike4kin_x6/nation_720p/playlist.m3u8
+WORKPOINT TV,https://cdn161.cloud-streaming.com/ilike4kin_x6/workpoint_720p/playlist.m3u8
+TRUE4U,https://cdn161.cloud-streaming.com/ilike4kin_x6/true4u_720p/playlist.m3u8
+GMM 25,https://cdn161.cloud-streaming.com/ilike4kin_x6/gmm25_720p/playlist.m3u8
+CH 8,https://cdn161.cloud-streaming.com/ilike4kin_x6/ch8_720p/playlist.m3u8
+TNN,https://cdn161.cloud-streaming.com/ilike4kin_x6/tnn24_720p/playlist.m3u8
+NEW 18,https://cdn161.cloud-streaming.com/ilike4kin_x6/new18_720p/playlist.m3u8
+MONO 29,https://cdn161.cloud-streaming.com/ilike4kin_x6/mono29_720p/playlist.m3u8
+PPTV HD,https://cdn161.cloud-streaming.com/ilike4kin_x6/pptv_720p/chunks.m3u8
+FOX MOVIES,http://dootvthai-hd.com/cmd/api/true/FOX-MOVIE/playlist.m3u8
+FOX ACTION MOVIES,http://dootvthai-hd.com/cmd/api/true/FOX-ACTION/playlist.m3u8
+FOX FAMILY MOVIES,http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
+FOX THAI,http://dootvthai-hd.com/cmd/api/true/FOX-THAI/playlist.m3u8
+TRUE FILM HD,http://160.119.77.50/iptv/hd-tfilm.stream/chunks.m3u8
+TRUE FILM HD 2,https://live.rentm3u8.com/chXPAsh1QyGOGU4LAwo60g/1600448039/live-abr/hd-tfilm2/liveorigin/hd-tfilm2_1080/chunks.m3u8
+TRUE ASIAN SERIES HD,http://160.119.77.50/iptv/hd-asian.stream/chunks.m3u8
+HBO,http://www.iamntp.com/tv/link/hbo_onweb.m3u8
+HBO HITS,http://www.iamntp.com/tv/link/hits_onweb.m3u8
+HBO SIGNATURE,http://www.iamntp.com/tv/link/sig_onweb.m3u8
+HBO FAMILY,http://www.iamntp.com/tv/link/family_onweb.m3u8
+RED BY HBO,http://www.iamntp.com/tv/link/red_onweb.m3u8
+MAX BY HBO,http://www.iamntp.com/tv/link/max_onweb.m3u
+OCN MOVIES,
+OCN THRILLS,
+AXN HD,http://160.119.77.50/iptv/hd-axn.stream/chunks.m3u8
+WARNER TV,http://dootvthai-hd.com/cmd/api/true/WARNER-HD/playlist.m3u8
+PARAMOUNT NETWORK,http://dootvthai-hd.com/cmd/api/true/PARAMOUNT-HD/playlist.m3u8
+TRUE THAI FILM,http://160.119.77.50/iptv/sd-thaifilm.stream/chunks.m3u8
+TRUE SERIES,http://160.119.77.50/iptv/sd-series.stream/chunks.m3u8
+TRUE XZYTE HD,http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
+TRUE INSIDE HD,http://dootvthai-hd.com/cmd/api/true/TRUE-INSIDE-HD/playlist.m3u8
+FOOD NETWORK,http://dootvthai-hd.com/cmd/api/true/FOOD-NETWORK-HD/playlist.m3u8
+AFN,http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
+KBS WORLD,http://dootvthai-hd.com/cmd/api/true/KBS-WORLD-HD/playlist.m3u8
+LIFETIME HD,http://dootvthai-hd.com/cmd/api/true/LIFE-TIME/playlist.m3u8
+TVN ASIA,http://dootvthai-hd.com/cmd/api/true/TVN/playlist.m3u8
+BLUEANT ENTERTAINMENT,http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-ENTERTAINMENT/playlist.m3u8
+BLUEANT EXTREME,http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-EXTREME/playlist.m3u8
+TRUE PLOOKPANYA,http://dootvthai-hd.com/cmd/api/true/TRUEPLOOKPANYA/playlist.m3u8
+MTV ASIA,http://203.154.177.124:8899/live/ch4/playlist.m3u8
+MTV LIVE HD,http://203.154.177.124:8899/live/ch2/playlist.m3u8
+MTV CHINESE,http://203.154.177.124:8899/live/ch16/playlist.m3u8
+MTV HITS,http://85.203.33.5:8080/l63rJxz784/VQCXmb940/7317
+MTV ROCKS,http://85.203.33.5:8080/l63rJxz784/VQCXmb940/7315
+MTV BASE,http://85.203.33.5:8080/l63rJxz784/VQCXmb940/7319
+TRUE MUSIC HD,http://dootvthai-hd.com/cmd/true/true-music-hd/playlist.m3u8
+VERY TV,http://dootvthai-hd.com/cmd/true/verytv/playlist.m3u8
+KMTV HD,http://dootvthai-hd.com/cmd/true/kmtv-hd/playlist.m3u8
+I-CONCERT HD,http://dootvthai-hd.com/cmd/api/true/Stringray-iConcerts-HD/playlist.m3u8
+FASHION TV,http://dootvthai-hd.com/cmd/true/fashion-tv/playlist.m3u8
+WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+HD FASHION,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+OUTDOOR CHANNEL,http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
+CARTOON NETWORK,http://dootvthai-hd.com/cmd/api/true/cartoon-network-hd/playlist.m3u8
+NICK,http://dootvthai-hd.com/cmd/true/nickelodeon/playlist.m3u8
+TRUE SPARK PLAY,http://dootvthai-hd.com/cmd/true/TRUE-SPARK-PLAY/playlist.m3u8
+TRUE SPARK JUMP,http://dootvthai-hd.com/cmd/true/TRUE-SPARK-JUMP/playlist.m3u8
+ANIMAX,http://203.154.177.124:8899/live/ch5/playlist.m3u8
+TOONIVERSE,http://1.247.191.130:9981/stream/channelid/1344293379
+NGC,http://dootvthai-hd.com/cmd/api/true/national-geographic-hd/playlist.m3u8
+HISTORY,http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
+H2,http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
+TRUE EXPLORE WILD,http://dootvthai-hd.com/cmd/true/true-explore-wild/playlist.m3u8
+TRUE EXPLORE SCI,http://dootvthai-hd.com/cmd/true/true-explore-sci/playlist.m3u8
+TRUE EXPLORE LIFE,http://dootvthai-hd.com/cmd/true/true-explore-life/playlist.m3u8
+LOVE NATURE 4K,http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
+DISCOVERY,https://edge-n3.worldwidetv.club/WziBylzCH3yJ1bDAtGhlhg/1600448061/live-abr/sd-discovery/liveorigin/sd-discovery_480/chunks.m3u8
+DISCOVERY ASIA,https://edge-n3.worldwidetv.club/RybQs4KPHe4hHmEFtHrBxg/1600448093/live-abr/hd-discovery/liveorigin/hd-discovery_1080/chunks.m3u8
+NGC WILD,https://live.rentm3u8.com/ee63vgpO1Zlm-EVCYmgfXw/1600448103/live-abr/hd-natgeowild/liveorigin/hd-natgeowild_1080/chunks.m3u8
+TRUE PREMIER LEAGUE 1,http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
+TRUE PREMIER LEAGUE 2,http://dootvthai-hd.com/cmd/true/ep1-2/playlist.m3u8
+TRUE PREMIER LEAGUE 3,http://dootvthai-hd.com/cmd/true/ep1-3/playlist.m3u8
+TRUE PREMIER LEAGUE 4,http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
+TRURE PREMIER LEAGUE 5,http://dootvthai-hd.com/cmd/true/ep1-5/playlist.m3u8
+FOX SPORTS 1,http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-HD/playlist.m3u8
+FOX SPORTS 2,http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-2-HD/playlist.m3u8
+FOX SPORTS 3,http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-3/playlist.m3u8
+NBA TV,http://dootvthai-hd.com/cmd/true/NBA-TV/playlist.m3u8
+NFL NETWORK,http://dootvthai-hd.com/cmd/true/NFL-NETWORK/playlist.m3u8
+TRUE SPORTS HD,http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+TRUE SPORTS HD 2,http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
+TRUE SPORTS HD 3,http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+TRUE SPORTS HD 4,http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+TRUE TENNIS HD,http://203.150.107.30:8081/tested2iptv/core3/playlist.m3u8
+MOTOR VISION HD,http://dootvthai-hd.com/cmd/api/true/MOTOR-VISION/playlist.m3u8
+BEIN SPORTS 1,http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
+BEIN SPORTS 2,http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
+LFC TV,http://85.203.33.205:8080/aF416sLqb138/ihO0g177/3568
+MUTV,http://85.203.33.205:8080/aF416sLqb138/ihO0g177/2655
+NHK G (日本),vjms://58.215.133.154:8500/live/cid=317
+NHK E (日本),vjms://58.215.133.154:8500/live/cid=318
+TV TOKYO (日本),vjms://58.215.133.154:8500/live/cid=315
+日-J (日本),vjms://58.215.133.154:8500/live/cid=495
+MTV (日本),vjms://58.215.133.154:8500/live/cid=52#vjms://122.155.180.8:8500:3502/live/cid=52
+WOWOWライブ (日本),p8p://0198.02686.cc:16871/5d414e790002c58e75f3f300c43c2dde.ts
+MOVIEPLUS (日本),vjms://58.215.133.154:8500/live/cid=497
+KBS WORLD (日本),vjms://122.155.180.8:8500/live/cid=216#vjms://58.215.41.184:8500:3502/live/cid=216
+DISCOVERY (日本),vjms://58.215.133.154:8500/live/cid=496
+HISTORY (日本),vjms://58.215.133.154:8500/live/cid=219
+日テレPLUS (日本),vjms://58.215.133.154:8500/live/cid=492
+ファミリ?`剧场 (日本),vjms://58.215.133.154:8500/live/cid=493
+GAORA SPORTS (日本),vjms://58.215.133.154:8500/live/cid=413
+GOLF NTWORK (日本),vjms://58.215.133.154:8500/live/cid=409
+日 SPORTS (日本),vjms://58.215.133.154:8500/live/cid=414
+日 FIGHTING TV (日本),vjms://58.215.133.154:8500/live/cid=408
+J-SPORTS 1 (日本),vjms://58.215.133.154:8500/live/cid=415
+J-SPORTS 2 (日本),vjms://58.215.133.154:8500/live/cid=416
+J-SPORTS 3 (日本),vjms://58.215.133.154:8500/live/cid=410
+J-SPORTS 4 (日本),vjms://58.215.133.154:8500/live/cid=411
