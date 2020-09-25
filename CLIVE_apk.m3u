@@ -39,8 +39,8 @@ https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 https://700.nbtc.go.th/tvdum13.m3u8
 #EXTINF:20, NBTC 20
 https://700.nbtc.go.th/tvdum14.m3u8
-#EXTINF:21, NBTC 21 : VOICE TV
-https://video-weaver.bkk01.hls.ttvnw.net/v1/playlist/CuAEo9fxt2rWyuC7x8OzkNsE4tZo_it4HNUGo_AKMyxjR33xA_l290HCIa-HdTgkL8eCeX0bGsZiQJlsXMjMcwb4GvQr8WULBh9TQws6Am0K-Qb5X5ZgqQG8YPnh9fgDdlYORJRFNPnMsclgHPnINSXAIDIgvE4fMHAxeeqjQW6ja2JGUFFEye1WJhrStlubGwHQb-ZIOym4VsLSkIw_InLeX89mg91ZLtu1RMhQeEvKUuN2oB8yiqujajUfil8FiN_dTlF702wSvAb2-rtRfMohCcsI8odbTL_NyWHOim9os-YI8K6UIJvvhTBOWnyVY7lUspT8kHPcKLXAxQRdVLpCPUGO3CysNTu7hmnZsL5EUIm51v2aP-lT2JazGbXZBVuPh_cmt_1dcH8Lse76HrLwCEfypvbsSQ4s8LXxf9Vqy_utXC8IzTnv7Zttyr-U8KQ_X3q0ObRcCZSZ2UsY_NQ87ibcv57UGa6eHy8sEI6nMq3W_HU3kGPnmkPDc7JlSBnIOX0YEvIvjdXGU92pE3jLvj2cvB0_NO7emHJjshlR-EdTKxtztElFX1gX5j0E9fzQNpl-XV4E003Uw1xXPAHuQreKhqevFStHzapOK1jU5DXk4vk7xBXeo9hzSG63MeUmOQeYwwGgyTp3T61ZJLNYbmZju5pMLrSh1voqzQ5mavJ3RCoyeswH9KTAAv4_WfUOpiln0u1ojekjro01Nk0YTJmoxz52P3THKwa4ML48ILA92_82YwWh_bas1k9HEJrnPAYqiiEsDZABEDzoRUJeAWlPQddPB1oOzkxtIcW5gqoSELurZRS8a-f5ugzGBfVWBdEaDBZcW8q2xGq8X3oOhw.m3u8
+#EXTINF:21, NBTC 21
+https://700.nbtc.go.th/tvdum15.m3u8
 #EXTINF:22, NATION TV
 http://dootvthai-hd.com/cmd/api/true/NATIONTV/playlist.m3u8
 #EXTINF:23, WORKPOINT
@@ -261,3 +261,85 @@ http://dootvthai-hd.com/cmd/true/NBA-TV/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/NFL-NETWORK/playlist.m3u8
 #EXTINF:130, EUROSPORT 4K
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
+
+#EXTINF:131, KBS 1
+http://live.yingtaotvapp.com/KBS1/index.m3u8
+#EXTINF:132, KBS 2
+http://live.yingtaotvapp.com/KBS2/index.m3u8
+#EXTINF:133, MBC
+http://live.yingtaotvapp.com/MBC/index.m3u8
+#EXTINF:134, SBS
+http://live.yingtaotvapp.com/SBS/index.m3u8
+#EXTINF:135, JTBC
+http://live.yingtaotvapp.com/JTBC/index.m3u8
+#EXTINF:136, MBN
+http://live.yingtaotvapp.com/MBN/index.m3u8
+#EXTINF:137, TVN
+http://live.yingtaotvapp.com/TVN/index.m3u8
+#EXTINF:138, MBC EVERY1
+http://live.yingtaotvapp.com/MBCevery1/index.m3u8
+#EXTINF:139, KBS JOY
+http://live.yingtaotvapp.com/KBSJoy/index.m3u8
+#EXTINF:140, YTN
+http://live.yingtaotvapp.com/YTN/index.m3u8
+#EXTINF:141, OCN MOVIES
+http://live.yingtaotvapp.com/CGV/index.m3u8
+#EXTINF:142, OCN
+http://live.yingtaotvapp.com/OCN/index.m3u8
+#EXTINF:143, MPLEX
+http://live.yingtaotvapp.com/Mplex/index.m3u8
+#EXTINF:144, SPOTV
+http://live.yingtaotvapp.com/SPOTV/index.m3u8
+#EXTINF:145, SPOTV 2
+http://live.yingtaotvapp.com/SPOTV2/index.m3u8
+#EXTINF:146, FTV
+http://live.yingtaotvapp.com/FTV/index.m3u8
+#EXTINF:147, DISCOVERY
+http://live.yingtaotvapp.com/Discovery/index.m3u8
+#EXTINF:148, NGC
+http://live.yingtaotvapp.com/NGC/index.m3u8
+#EXTINF:149, ONSTYLE
+https://iptvhome-ra2eye.cdn.byteark.com/8/stream/channelid/1847482104
+#EXTINF:150, SBS MTV
+https://iptvhome-ra2eye.cdn.byteark.com/10/stream/channelid/1538572721
+
+#EXTINF:151, TVB 翡翠台
+http://live.vpnyun.tk:8080/demo/456321/1
+#EXTINF:152, TVB PEARL
+http://live.vpnyun.tk:8080/demo/456321/2
+#EXTINF:153, TVB NEWS
+http://live.vpnyun.tk:8080/demo/456321/3
+#EXTINF:154, TVB 經資訊台
+http://live.vpnyun.tk:8080/demo/456321/4
+#EXTINF:155, I-CABLE 新聞台
+http://live.vpnyun.tk:8080/demo/456321/5
+#EXTINF:156, NOW 新聞台
+http://live.vpnyun.tk:8080/demo/456321/6
+#EXTINF:157, TVB J2
+http://live.vpnyun.tk:8080/demo/456321/7
+#EXTINF:158, 18 台
+http://live.vpnyun.tk:8080/demo/456321/9
+#EXTINF:159, VIUTV
+http://live.vpnyun.tk:8080/demo/456321/15
+#EXTINF:160, VIUTV 6
+http://live.vpnyun.tk:8080/demo/456321/16
+#EXTINF:161, NOW 直播台
+http://live.vpnyun.tk:8080/demo/456321/17
+#EXTINF:162, RTHK 31
+http://live.vpnyun.tk:8080/demo/456321/18
+#EXTINF:163, RTHK 32
+http://live.vpnyun.tk:8080/demo/456321/19
+#EXTINF:164, TVB XINGHE
+http://live.vpnyun.tk:8080/demo/456321/20
+#EXTINF:165, TVB DRAMA
+http://live.vpnyun.tk:8080/demo/456321/21
+#EXTINF:166, TVB VARIETY
+http://live.vpnyun.tk:8080/demo/456321/22
+#EXTINF:167, PHOENIX NEWS HD
+http://live.vpnyun.tk:8080/demo/456321/25
+#EXTINF:168, I-CABLE 电影台
+http://live.vpnyun.tk:8080/demo/456321/13
+#EXTINF:169, I-CABLE 娱乐频道台
+http://live.vpnyun.tk:8080/demo/456321/12
+#EXTINF:170, I-CABLE 育频台
+http://live.vpnyun.tk:8080/demo/456321/10
