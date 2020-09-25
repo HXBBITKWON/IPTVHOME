@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:1, TV5 HD
+http://dootvthai-hd.com/cmd/api/true/CH5-HD/playlist.m3u8
+#EXTINF:2, NBT HD
+http://dootvthai-hd.com/cmd/api/true/NBT-HD/playlist.m3u8
+#EXTINF:3, THAIPBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:4, ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:5, NBTC 5
+#
+#EXTINF:6, NBTC 6
+##
+#EXTINF:7, NBTC 7
+###
+#EXTINF:8, NBTC 8
+####
+#EXTINF:9, NBTC 9
+#####
+#EXTINF:10, TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:11, NBTC 11
+#####11
+#EXTINF:12, NBTC 12
+######
+#EXTINF:13, NBTC 13
+#######
+#EXTINF:14, NBTC 14
+########
+#EXTINF:15, NBTC 15
+#########
+#EXTINF:16, TNN 16
+http://dootvthai-hd.com/cmd/api/true/tnn-16/playlist.m3u8
+#EXTINF:17, NBTC 17
+##########
+#EXTINF:18, NEW 18
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:19, NBTC 19
+###########
+#EXTINF:20, NBTC 20
+############
+#EXTINF:21, NBTC 21
+#############
+#EXTINF:22, NATION TV
+http://dootvthai-hd.com/cmd/api/true/NATIONTV/playlist.m3u8
+#EXTINF:23, WORKPOINT
+http://dootvthai-hd.com/cmd/api/true/WORKPOINTTV/playlist.m3u8
+#EXTINF:24, TRUE4U
+http://dootvthai-hd.com/cmd/api/true/true4u/playlist.m3u8
+#EXTINF:25, GMM 25
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:26, NBTC 26
+###############
+#EXTINF:27, CH 8
+http://dootvthai-hd.com/cmd/api/true/CH8-HD/playlist.m3u8
+#EXTINF:28, NBTC 28
+################
+#EXTINF:29, MONO 29
+http://dootvthai-hd.com/cmd/api/true/mono29/playlist.m3u8
+#EXTINF:30, MCOT HD
+http://dootvthai-hd.com/cmd/api/true/9MCOT-HD/playlist.m3u8
+#EXTINF:31, ONE 31
+http://dootvthai-hd.com/cmd/api/true/ONE-HD/playlist.m3u8
+#EXTINF:32, THAIRATH TV
+http://dootvthai-hd.com/cmd/api/true/THAIRATHTV-HD/playlist.m3u8
+#EXTINF:33, CH 3 HD
+http://203.150.107.30:8081/tested2iptv/core11/playlist.m3u8
+#EXTINF:34, AMARIN TV
+http://dootvthai-hd.com/cmd/api/true/AMARINTV-HD/playlist.m3u8
+#EXTINF:35, CH 7 HD
+http://dootvthai-hd.com/cmd/api/true/CH7-HD/playlist.m3u8
+#EXTINF:36, PPTV HD
+http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
