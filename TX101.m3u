@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1, TV5 HD
+#EXTINF:1, TV5HD 1
 http://dootvthai-hd.com/cmd/api/true/CH5-HD/playlist.m3u8
 #EXTINF:2, NBT HD
 http://dootvthai-hd.com/cmd/api/true/NBT-HD/playlist.m3u8
@@ -71,3 +71,92 @@ http://dootvthai-hd.com/cmd/api/true/AMARINTV-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/CH7-HD/playlist.m3u8
 #EXTINF:36, PPTV HD
 http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
+#EXTINF:37, NBTC 37
+https://700.nbtc.go.th/tvdum18.m3u8
+#EXTINF:38, NBTC 38
+https://700.nbtc.go.th/tvdum19.m3u8
+#EXTINF:39, NBTC 39
+https://700.nbtc.go.th/tvdum20.m3u8
+#EXTINF:40, NBTC 40
+https://700.nbtc.go.th/tvdum21.m3u8
+#EXTINF:41, DLTV 1
+
+#EXTINF:42, DLTV 2
+
+#EXTINF:43, DLTV 3
+
+#EXTINF:44, DLTV 4
+
+#EXTINF:45, DLTV 5
+
+#EXTINF:46, DLTV 6
+
+#EXTINF:47, DLTV 7
+
+#EXTINF:48, DLTV 8
+
+#EXTINF:49, DLTV 9
+
+#EXTINF:50, DLTV 10
+
+#EXTINF:51, DLTV 11
+
+#EXTINF:52, DLTV 12
+
+#EXTINF:53, DLTV 13
+
+#EXTINF:54, DLTV 14
+
+#EXTINF:55, DLTV 15
+
+#EXTINF:56, NBTC 56
+https://700.nbtc.go.th/tvdum22.m3u8
+#EXTINF:57, NBTC 57
+https://700.nbtc.go.th/tvdum23.m3u8
+#EXTINF:58, NBTC 58
+https://700.nbtc.go.th/tvdum24.m3u8
+#EXTINF:59, NBTC 59
+https://700.nbtc.go.th/tvdum25.m3u8
+#EXTINF:60, NBTC 60
+https://700.nbtc.go.th/tvdum26.m3u8
+#EXTINF:61, NBTC 61
+https://700.nbtc.go.th/tvdum27.m3u8
+#EXTINF:62, NBTC 62
+https://700.nbtc.go.th/tvdum28.m3u8
+#EXTINF:63, NBTC 63
+https://700.nbtc.go.th/tvdum29.m3u8
+#EXTINF:64, NBTC 64
+https://700.nbtc.go.th/tvdum30.m3u8
+#EXTINF:65, NBTC 65
+https://700.nbtc.go.th/tvdum31.m3u8
+#EXTINF:66, NBTC 66
+https://700.nbtc.go.th/tvdum32.m3u8
+#EXTINF:67, NBTC 67
+https://700.nbtc.go.th/tvdum33.m3u8
+#EXTINF:68, NBTC 68
+https://700.nbtc.go.th/tvdum34.m3u8
+#EXTINF:69, NBTC 69
+https://700.nbtc.go.th/tvdum35.m3u8
+#EXTINF:70, NBTC 70
+https://700.nbtc.go.th/tvdum36.m3u8
+
+#EXTINF:71, FOX MOVIES
+http://dootvthai-hd.com/cmd/api/true/FOX-MOVIE/playlist.m3u8
+#EXTINF:72, FOX ACTION MOVIES
+http://dootvthai-hd.com/cmd/api/true/FOX-ACTION/playlist.m3u8
+#EXTINF:73, FOX FAMILY MOVIES
+http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
+#EXTINF:74, FOX THAI
+http://dootvthai-hd.com/cmd/api/true/FOX-THAI/playlist.m3u8
+#EXTINF:75, HBO
+http://dootvthai-hd.com/cmd/api/hbo/HBOHD/playlist.m3u8
+#EXTINF:76, HBO HITS
+http://dootvthai-hd.com/cmd/api/hbo/HITSHD/playlist.m3u8
+#EXTINF:77, HBO SIGNATURE
+http://dootvthai-hd.com/cmd/api/hbo/SIGHD/playlist.m3u8
+#EXTINF:78, HBO FAMILY
+http://dootvthai-hd.com/cmd/api/hbo/FAMHD/playlist.m3u8
+#EXTINF:79, RED BY HBO
+http://dootvthai-hd.com/cmd/api/hbo/RED/playlist.m3u8
+#EXTINF:80, MAX BY HBO
+http://dootvthai-hd.com/cmd/api/hbo/MAXHD/playlist.m3u8
