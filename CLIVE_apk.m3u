@@ -1,0 +1,263 @@
+#EXTM3U
+#EXTINF:1, TV5HD 1
+http://dootvthai-hd.com/cmd/api/true/CH5-HD/playlist.m3u8
+#EXTINF:2, NBT HD
+http://dootvthai-hd.com/cmd/api/true/NBT-HD/playlist.m3u8
+#EXTINF:3, THAIPBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:4, ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:5, NBTC 5
+https://700.nbtc.go.th/tvdum1.m3u8
+#EXTINF:6 , NBTC 6
+https://700.nbtc.go.th/tvdum2.m3u8
+#EXTINF:7, NBTC 7
+https://700.nbtc.go.th/tvdum3.m3u8
+#EXTINF:8, NBTC 8
+https://700.nbtc.go.th/tvdum4.m3u8
+#EXTINF:9, NBTC 9
+https://700.nbtc.go.th/tvdum5.m3u8
+#EXTINF:10, TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:11, NBT CENTRAL
+http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+#EXTINF:12, NBTC 12
+https://700.nbtc.go.th/tvdum8.m3u8
+#EXTINF:13, NBTC 13
+https://700.nbtc.go.th/tvdum9.m3u8
+#EXTINF:14, NBTC 14
+https://700.nbtc.go.th/tvdum10.m3u8
+#EXTINF:15, NBTC 15
+https://700.nbtc.go.th/tvdum11.m3u8
+#EXTINF:16, TNN 16
+http://dootvthai-hd.com/cmd/api/true/tnn-16/playlist.m3u8
+#EXTINF:17, NBTC 17
+https://700.nbtc.go.th/tvdum12.m3u8
+#EXTINF:18, NEW 18
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:19, NBTC 19
+https://700.nbtc.go.th/tvdum13.m3u8
+#EXTINF:20, NBTC 20
+https://700.nbtc.go.th/tvdum14.m3u8
+#EXTINF:21, NBTC 21 : VOICE TV
+https://video-weaver.bkk01.hls.ttvnw.net/v1/playlist/CuAEo9fxt2rWyuC7x8OzkNsE4tZo_it4HNUGo_AKMyxjR33xA_l290HCIa-HdTgkL8eCeX0bGsZiQJlsXMjMcwb4GvQr8WULBh9TQws6Am0K-Qb5X5ZgqQG8YPnh9fgDdlYORJRFNPnMsclgHPnINSXAIDIgvE4fMHAxeeqjQW6ja2JGUFFEye1WJhrStlubGwHQb-ZIOym4VsLSkIw_InLeX89mg91ZLtu1RMhQeEvKUuN2oB8yiqujajUfil8FiN_dTlF702wSvAb2-rtRfMohCcsI8odbTL_NyWHOim9os-YI8K6UIJvvhTBOWnyVY7lUspT8kHPcKLXAxQRdVLpCPUGO3CysNTu7hmnZsL5EUIm51v2aP-lT2JazGbXZBVuPh_cmt_1dcH8Lse76HrLwCEfypvbsSQ4s8LXxf9Vqy_utXC8IzTnv7Zttyr-U8KQ_X3q0ObRcCZSZ2UsY_NQ87ibcv57UGa6eHy8sEI6nMq3W_HU3kGPnmkPDc7JlSBnIOX0YEvIvjdXGU92pE3jLvj2cvB0_NO7emHJjshlR-EdTKxtztElFX1gX5j0E9fzQNpl-XV4E003Uw1xXPAHuQreKhqevFStHzapOK1jU5DXk4vk7xBXeo9hzSG63MeUmOQeYwwGgyTp3T61ZJLNYbmZju5pMLrSh1voqzQ5mavJ3RCoyeswH9KTAAv4_WfUOpiln0u1ojekjro01Nk0YTJmoxz52P3THKwa4ML48ILA92_82YwWh_bas1k9HEJrnPAYqiiEsDZABEDzoRUJeAWlPQddPB1oOzkxtIcW5gqoSELurZRS8a-f5ugzGBfVWBdEaDBZcW8q2xGq8X3oOhw.m3u8
+#EXTINF:22, NATION TV
+http://dootvthai-hd.com/cmd/api/true/NATIONTV/playlist.m3u8
+#EXTINF:23, WORKPOINT
+http://dootvthai-hd.com/cmd/api/true/WORKPOINTTV/playlist.m3u8
+#EXTINF:24, TRUE4U
+http://dootvthai-hd.com/cmd/api/true/true4u/playlist.m3u8
+#EXTINF:25, GMM 25
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:26, NBTC 26
+https://700.nbtc.go.th/tvdum16.m3u8
+#EXTINF:27, CH 8
+http://dootvthai-hd.com/cmd/api/true/CH8-HD/playlist.m3u8
+#EXTINF:28, NBTC 28
+https://700.nbtc.go.th/tvdum17.m3u8
+#EXTINF:29, MONO 29
+http://dootvthai-hd.com/cmd/api/true/mono29/playlist.m3u8
+#EXTINF:30, MCOT HD
+http://dootvthai-hd.com/cmd/api/true/9MCOT-HD/playlist.m3u8
+#EXTINF:31, ONE 31
+http://dootvthai-hd.com/cmd/api/true/ONE-HD/playlist.m3u8
+#EXTINF:32, THAIRATH TV
+http://dootvthai-hd.com/cmd/api/true/THAIRATHTV-HD/playlist.m3u8
+#EXTINF:33, CH 3 HD
+http://203.150.107.30:8081/tested2iptv/core11/playlist.m3u8
+#EXTINF:34, AMARIN TV
+http://dootvthai-hd.com/cmd/api/true/AMARINTV-HD/playlist.m3u8
+#EXTINF:35, CH 7 HD
+http://dootvthai-hd.com/cmd/api/true/CH7-HD/playlist.m3u8
+#EXTINF:36, PPTV HD
+http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
+#EXTINF:37, NBTC 37
+https://700.nbtc.go.th/tvdum18.m3u8
+#EXTINF:38, NBTC 38
+https://700.nbtc.go.th/tvdum19.m3u8
+#EXTINF:39, NBTC 39
+https://700.nbtc.go.th/tvdum20.m3u8
+#EXTINF:40, NBTC 40
+https://700.nbtc.go.th/tvdum21.m3u8
+#EXTINF:41, DLTV 1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+#EXTINF:42, DLTV 2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+#EXTINF:43, DLTV 3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+#EXTINF:44, DLTV 4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+#EXTINF:45, DLTV 5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+#EXTINF:46, DLTV 6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+#EXTINF:47, DLTV 7
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+#EXTINF:48, DLTV 8
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+#EXTINF:49, DLTV 9
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+#EXTINF:50, DLTV 10
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+#EXTINF:51, DLTV 11
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+#EXTINF:52, DLTV 12
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+#EXTINF:53, DLTV 13
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+#EXTINF:54, DLTV 14
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+#EXTINF:55, DLTV 15
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+#EXTINF:56, NBTC 56
+https://700.nbtc.go.th/tvdum22.m3u8
+#EXTINF:57, NBTC 57
+https://700.nbtc.go.th/tvdum23.m3u8
+#EXTINF:58, NBTC 58
+https://700.nbtc.go.th/tvdum24.m3u8
+#EXTINF:59, NBTC 59
+https://700.nbtc.go.th/tvdum25.m3u8
+#EXTINF:60, NBTC 60
+https://700.nbtc.go.th/tvdum26.m3u8
+#EXTINF:61, NBTC 61
+https://700.nbtc.go.th/tvdum27.m3u8
+#EXTINF:62, NBTC 62
+https://700.nbtc.go.th/tvdum28.m3u8
+#EXTINF:63, NBTC 63
+https://700.nbtc.go.th/tvdum29.m3u8
+#EXTINF:64, NBTC 64
+https://700.nbtc.go.th/tvdum30.m3u8
+#EXTINF:65, NBTC 65
+https://700.nbtc.go.th/tvdum31.m3u8
+#EXTINF:66, NBTC 66
+https://700.nbtc.go.th/tvdum32.m3u8
+#EXTINF:67, NBTC 67
+https://700.nbtc.go.th/tvdum33.m3u8
+#EXTINF:68, NBTC 68
+https://700.nbtc.go.th/tvdum34.m3u8
+#EXTINF:69, NBTC 69
+https://700.nbtc.go.th/tvdum35.m3u8
+#EXTINF:70, NBTC 70
+https://700.nbtc.go.th/tvdum36.m3u8
+
+#EXTINF:71, FOX MOVIES
+http://dootvthai-hd.com/cmd/api/true/FOX-MOVIE/playlist.m3u8
+#EXTINF:72, FOX ACTION MOVIES
+http://dootvthai-hd.com/cmd/api/true/FOX-ACTION/playlist.m3u8
+#EXTINF:73, FOX FAMILY MOVIES
+http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
+#EXTINF:74, FOX THAI
+http://dootvthai-hd.com/cmd/api/true/FOX-THAI/playlist.m3u8
+#EXTINF:75, HBO
+http://dootvthai-hd.com/cmd/api/hbo/HBOHD/playlist.m3u8
+#EXTINF:76, HBO HITS
+http://dootvthai-hd.com/cmd/api/hbo/HITSHD/playlist.m3u8
+#EXTINF:77, HBO SIGNATURE
+http://dootvthai-hd.com/cmd/api/hbo/SIGHD/playlist.m3u8
+#EXTINF:78, HBO FAMILY
+http://dootvthai-hd.com/cmd/api/hbo/FAMHD/playlist.m3u8
+#EXTINF:79, RED BY HBO
+http://dootvthai-hd.com/cmd/api/hbo/RED/playlist.m3u8
+#EXTINF:80, MAX BY HBO
+http://dootvthai-hd.com/cmd/api/hbo/MAXHD/playlist.m3u8
+
+#EXTINF:81, TRUE XZTYE HD
+http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
+#EXTINF:82, TRUE INSIDE HD
+http://dootvthai-hd.com/cmd/api/true/TRUE-INSIDE-HD/playlist.m3u8
+#EXTINF:83, TRUE PLOOKPANYA
+http://dootvthai-hd.com/cmd/api/true/TRUEPLOOKPANYA/playlist.m3u8
+#EXTINF:84, REALITY CHANNEL
+http://dootvthai-hd.com/cmd/api/true/REALITYCHANNEL-HD/playlist.m3u8
+#EXTINF:85, FOOD NETWORK
+http://dootvthai-hd.com/cmd/api/true/FOOD-NETWORK-HD/playlist.m3u8
+#EXTINF:86, ASIAN FOOD NETWORK
+http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
+#EXTINF:87, TVN ASIA
+http://dootvthai-hd.com/cmd/api/true/TVN/playlist.m3u8
+#EXTINF:88, KBS WORLD
+http://dootvthai-hd.com/cmd/api/true/KBS-WORLD-HD/playlist.m3u8
+#EXTINF:89, BLUEANT ENTERTAINMENT
+http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-ENTERTAINMENT/playlist.m3u8
+#EXTINF:90, BLUEANT EXTREME
+http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-EXTREME/playlist.m3u8
+#EXTINF:91, CARTOON NETWORK
+http://dootvthai-hd.com/cmd/api/true/cartoon-network-hd/playlist.m3u8
+#EXTINF:92, NICK
+http://dootvthai-hd.com/cmd/true/nickelodeon/playlist.m3u8
+#EXTINF:93, TRUE SPARK PLAY
+http://dootvthai-hd.com/cmd/true/TRUE-SPARK-PLAY/playlist.m3u8
+#EXTINF:94, TRUE SPARK JUMP
+http://dootvthai-hd.com/cmd/true/TRUE-SPARK-JUMP/playlist.m3u8
+#EXTINF:95, WARNER TV
+http://dootvthai-hd.com/cmd/api/true/WARNER-HD/playlist.m3u8
+#EXTINF:96, PARAMOUNT NETWORK
+http://dootvthai-hd.com/cmd/api/true/PARAMOUNT-HD/playlist.m3u8
+#EXTINF:97, NGC
+http://dootvthai-hd.com/cmd/api/true/national-geographic-hd/playlist.m3u8
+#EXTINF:98, HISTORY
+http://dootvthai-hd.com/cmd/api/true/history-channel-hd/playlist.m3u8
+#EXTINF:99, H2
+http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
+#EXTINF:100, LIFETIME HD
+http://dootvthai-hd.com/cmd/api/true/LIFE-TIME/playlist.m3u8
+#EXTINF:101, TRUE EXPLORE WILD
+http://dootvthai-hd.com/cmd/true/true-explore-wild/playlist.m3u8
+#EXTINF:102, TRUE EXPLORE SCI
+http://dootvthai-hd.com/cmd/true/true-explore-sci/playlist.m3u8
+#EXTINF:103, TRUE EXPLORE LIFE
+http://dootvthai-hd.com/cmd/true/true-explore-life/playlist.m3u8
+#EXTINF:104, OUTDOOR CHANNEL
+http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
+#EXTINF:105, FASHION TV
+http://dootvthai-hd.com/cmd/true/fashion-tv/playlist.m3u8
+#EXTINF:106, WFC
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:107, MTV ASIA
+http://203.154.177.124:8899/live/ch4/playlist.m3u8
+#EXTINF:108, TRUE MUSIC HD
+http://dootvthai-hd.com/cmd/true/true-music-hd/playlist.m3u8
+#EXTINF:109, VERY TV
+http://dootvthai-hd.com/cmd/true/verytv/playlist.m3u8
+#EXTINF:110, KMTV HD
+http://dootvthai-hd.com/cmd/true/kmtv-hd/playlist.m3u8
+#EXTINF:111, TRUE PREMIER LEAGUE 1
+http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
+#EXTINF:112, TRUE PREMIER LEAGUE 2
+http://dootvthai-hd.com/cmd/true/ep1-2/playlist.m3u8
+#EXTINF:113, TRUE PREMIER LEAGUE 3
+http://dootvthai-hd.com/cmd/true/ep1-3/playlist.m3u8
+#EXTINF:114, TRUE PREMIER LEAGUE 4
+http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
+#EXTINF:115, TRUE PREMIER LEAGUE 5
+http://dootvthai-hd.com/cmd/true/ep1-5/playlist.m3u8
+#EXTINF:116, MOTOR VISION HD
+http://dootvthai-hd.com/cmd/api/true/MOTOR-VISION/playlist.m3u8
+#EXTINF:117, FOX SPORTS 1
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-HD/playlist.m3u8
+#EXTINF:118, FOX SPORTS 2
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-2-HD/playlist.m3u8
+#EXTINF:119, FOX SPORTS 3
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-3/playlist.m3u8
+#EXTINF:120, TRUE TENNIS HD
+http://dootvthai-hd.com/cmd/api/true/TRUE-TENNIS-HD/playlist.m3u8
+#EXTINF:121, TRUE SPORTS HD
+http://dootvthai-hd.com/cmd/api/true/Truesport-HD/playlist.m3u8
+#EXTINF:122, TRUE SPORTS HD 2
+http://dootvthai-hd.com/cmd/api/true/Truesport-HD2/playlist.m3u8
+#EXTINF:123, TRUE SPORTS HD 3
+http://dootvthai-hd.com/cmd/api/true/Truesport-HD3/playlist.m3u8
+#EXTINF:124, TRUE SPORTS HD 4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:125, TRUE SPORTS 2
+http://dootvthai-hd.com/cmd/api/true/Truesport-2/playlist.m3u8
+#EXTINF:126, TRUE SPORTS 5
+http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
+#EXTINF:127, TRUE SPORTS 7
+http://dootvthai-hd.com/cmd/api/true/Truesport-7/playlist.m3u8
+#EXTINF:128, NBA TV
+http://dootvthai-hd.com/cmd/true/NBA-TV/playlist.m3u8
+#EXTINF:129, NFL NETWORK
+http://dootvthai-hd.com/cmd/true/NFL-NETWORK/playlist.m3u8
+#EXTINF:130, EUROSPORT 4K
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
