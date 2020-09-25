@@ -8,39 +8,39 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:4, ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:5, NBTC 5
-#
+https://700.nbtc.go.th/tvdum1.m3u8
 #EXTINF:6, NBTC 6
-##
+https://700.nbtc.go.th/tvdum2.m3u8
 #EXTINF:7, NBTC 7
-###
+https://700.nbtc.go.th/tvdum3.m3u8
 #EXTINF:8, NBTC 8
-####
+https://700.nbtc.go.th/tvdum4.m3u8
 #EXTINF:9, NBTC 9
-#####
+https://700.nbtc.go.th/tvdum5.m3u8
 #EXTINF:10, TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:11, NBTC 11
-#####11
+https://700.nbtc.go.th/tvdum7.m3u8
 #EXTINF:12, NBTC 12
-######
+https://700.nbtc.go.th/tvdum8.m3u8
 #EXTINF:13, NBTC 13
-#######
+https://700.nbtc.go.th/tvdum9.m3u8
 #EXTINF:14, NBTC 14
-########
+https://700.nbtc.go.th/tvdum10.m3u8
 #EXTINF:15, NBTC 15
-#########
+https://700.nbtc.go.th/tvdum11.m3u8
 #EXTINF:16, TNN 16
 http://dootvthai-hd.com/cmd/api/true/tnn-16/playlist.m3u8
 #EXTINF:17, NBTC 17
-##########
+https://700.nbtc.go.th/tvdum12.m3u8
 #EXTINF:18, NEW 18
 https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 #EXTINF:19, NBTC 19
-###########
+https://700.nbtc.go.th/tvdum13.m3u8
 #EXTINF:20, NBTC 20
-############
+https://700.nbtc.go.th/tvdum14.m3u8
 #EXTINF:21, NBTC 21
-#############
+https://700.nbtc.go.th/tvdum15.m3u8
 #EXTINF:22, NATION TV
 http://dootvthai-hd.com/cmd/api/true/NATIONTV/playlist.m3u8
 #EXTINF:23, WORKPOINT
@@ -50,11 +50,11 @@ http://dootvthai-hd.com/cmd/api/true/true4u/playlist.m3u8
 #EXTINF:25, GMM 25
 https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
 #EXTINF:26, NBTC 26
-###############
+https://700.nbtc.go.th/tvdum16.m3u8
 #EXTINF:27, CH 8
 http://dootvthai-hd.com/cmd/api/true/CH8-HD/playlist.m3u8
 #EXTINF:28, NBTC 28
-################
+https://700.nbtc.go.th/tvdum17.m3u8
 #EXTINF:29, MONO 29
 http://dootvthai-hd.com/cmd/api/true/mono29/playlist.m3u8
 #EXTINF:30, MCOT HD
