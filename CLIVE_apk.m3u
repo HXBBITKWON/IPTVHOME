@@ -343,3 +343,38 @@ http://live.vpnyun.tk:8080/demo/456321/13
 http://live.vpnyun.tk:8080/demo/456321/12
 #EXTINF:170, I-CABLE 育频台
 http://live.vpnyun.tk:8080/demo/456321/10
+
+#EXTINF:171, CCTV-1
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV1HD
+#EXTINF:172, CCTV-2
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV2HD
+#EXTINF:173, CCTV-3
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV3HD
+#EXTINF:174, CCTV-4
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV4HD
+#EXTINF:175, CCTV-5
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV5HD
+#EXTINF:176, CCTV-5 +
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV5AHD
+#EXTINF:177, CCTV-6
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV6HD
+#EXTINF:178, CCTV-7
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV7HD
+#EXTINF:179, CCTV-8
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV8HD
+#EXTINF:180, CCTV-9
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV9HD
+#EXTINF:181, CCTV-10
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV10HD
+#EXTINF:182, CCTV-11
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV11
+#EXTINF:183, CCTV-12
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV12HD
+#EXTINF:184, CCTV-13
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTVNEWS
+#EXTINF:185, CCTV-14
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTVChildHD
+#EXTINF:186, CCTV-15
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTVMusic
+#EXTINF:187, CCTV-17
+http://bzweb.gq/tv/dl/bzweb/tvm.php?id=CCTV17HD
