@@ -1,0 +1,206 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CH 3
+http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
+#EXTINF:2 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CH 5
+http://dootvthai-hd.com/cmd/api/true/CH5-HD/playlist.m3u8
+#EXTINF:3 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CH 7
+http://dootvthai-hd.com/cmd/api/true/CH7-HD/playlist.m3u8
+#EXTINF:4 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", ALTV
+https://tv.ztvthai.online/androidboxm3u/altv.m3u8
+#EXTINF:5 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", MCOT HD
+http://dootvthai-hd.com/cmd/api/true/9MCOT-HD/playlist.m3u8
+#EXTINF:6 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", NBT HD
+http://dootvthai-hd.com/cmd/api/true/NBT-HD/playlist.m3u8
+#EXTINF:7 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", THAIPBS HD
+https://tv.ztvthai.online/androidboxm3u/thaipbs.m3u8
+#EXTINF:8 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", THAIRATH TV
+http://dootvthai-hd.com/cmd/api/true/THAIRATHTV-HD/playlist.m3u8
+#EXTINF:9 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", AMARIN TV
+http://dootvthai-hd.com/cmd/api/true/AMARINTV-HD/playlist.m3u8
+#EXTINF:10 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TPTV
+https://tv.ztvthai.online/androidboxm3u/tptv.m3u8
+#EXTINF:11 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", ONE 31
+http://dootvthai-hd.com/cmd/api/true/ONE-HD/playlist.m3u8
+#EXTINF:12 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", NATION TV
+http://dootvthai-hd.com/cmd/api/true/NATIONTV/playlist.m3u8
+#EXTINF:13 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", WORKPOINT TV
+http://dootvthai-hd.com/cmd/api/true/WORKPOINTTV/playlist.m3u8
+#EXTINF:14 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE4U
+http://dootvthai-hd.com/cmd/api/true/true4u/playlist.m3u8
+#EXTINF:15 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", GMM 25
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:16 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TNN 16
+http://dootvthai-hd.com/cmd/api/true/tnn-16/playlist.m3u8
+#EXTINF:17 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CH 8
+http://dootvthai-hd.com/cmd/api/true/CH8-HD/playlist.m3u8
+#EXTINF:18 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", NEW 18
+https://tv.ztvthai.online/androidboxm3u/newtv.m3u8
+#EXTINF:19 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", MONO 29
+http://dootvthai-hd.com/cmd/api/true/mono29/playlist.m3u8
+#EXTINF:20 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", PPTV HD
+https://tv.ztvthai.online/androidboxm3u/pptv.m3u8
+
+#EXTINF:21 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", FOX MOVIES
+http://dootvthai-hd.com/cmd/api/true/FOX-MOVIE/playlist.m3u8
+#EXTINF:22 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", FOX ACTION MOVIES
+http://dootvthai-hd.com/cmd/api/true/FOX-ACTION/playlist.m3u8
+#EXTINF:23 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", FOX THAI
+http://dootvthai-hd.com/cmd/api/true/FOX-THAI/playlist.m3u8
+#EXTINF:24 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", THRILL
+http://203.154.177.124:8080/live/ch21/playlist.m3u8
+#EXTINF:25 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", HBO
+http://dootvthai-hd.com/cmd/api/hbo/HBOHD/playlist.m3u8
+#EXTINF:26 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", HBO HITS
+http://dootvthai-hd.com/cmd/api/hbo/HITSHD/playlist.m3u8
+#EXTINF:27 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", HBO FAMILY
+http://dootvthai-hd.com/cmd/api/hbo/FAMHD/playlist.m3u8
+#EXTINF:28 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", HBO SIGNATURE
+http://dootvthai-hd.com/cmd/api/hbo/SIGHD/playlist.m3u8
+#EXTINF:29 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", RED BY HBO
+https://niklive.com/live/ktu/red_hbo/playlist.m3u8
+#EXTINF:30 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CINEMAX
+http://dootvthai-hd.com/cmd/api/hbo/MAXHD/playlist.m3u8
+#EXTINF:31 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE FILM HD
+http://203.150.107.30:8081/tested2iptv/core205/playlist.m3u8
+#EXTINF:32 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE THAIFILM
+https://tv.ztvthai.online/androidboxm3u/thaifilm.m3u8
+#EXTINF:33 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", WARNER TV
+http://dootvthai-hd.com/cmd/api/true/WARNER-HD/playlist.m3u8
+#EXTINF:34 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", PARAMOUNT CHANNEL
+http://dootvthai-hd.com/cmd/api/true/PARAMOUNT-HD/playlist.m3u8
+#EXTINF:35 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", AXN HD
+http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
+#EXTINF:36 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TVB XING HE
+http://ip2121.com:8081/live/TVB/chunks.m3u8
+
+#EXTINF:37 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE XZYTE HD
+http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
+#EXTINF:38 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE INSIDE HD
+http://dootvthai-hd.com/cmd/api/true/TRUE-INSIDE-HD/playlist.m3u8
+#EXTINF:39 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE PLOOKPANYA
+http://dootvthai-hd.com/cmd/api/true/TRUEPLOOKPANYA/playlist.m3u8
+#EXTINF:40 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CCM
+https://tv.ztvthai.online/androidboxm3u/celestial.m3u8
+#EXTINF:41 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TVN ASIA
+http://dootvthai-hd.com/cmd/api/true/TVN/playlist.m3u8
+#EXTINF:42 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", KBS WORLD
+http://dootvthai-hd.com/cmd/api/true/KBS-WORLD-HD/playlist.m3u8
+#EXTINF:43 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TLC
+https://tv.ztvthai.online/androidboxm3u/tlc.m3u8
+#EXTINF:44 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", LIFETIME HD
+http://dootvthai-hd.com/cmd/api/true/LIFE-TIME/playlist.m3u8
+#EXTINF:45 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", FASHION TV
+http://dootvthai-hd.com/cmd/true/fashion-tv/playlist.m3u8
+#EXTINF:46 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", WFC
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:47 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", MTV
+http://203.154.177.124:8899/live/ch16/playlist.m3u8
+#EXTINF:48 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE MUSIC HD
+http://dootvthai-hd.com/cmd/true/true-music-hd/playlist.m3u8
+#EXTINF:49 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", VERY TV
+http://dootvthai-hd.com/cmd/true/verytv/playlist.m3u8
+#EXTINF:50 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", KMTV HD
+http://dootvthai-hd.com/cmd/true/kmtv-hd/playlist.m3u8
+#EXTINF:51 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", FOOD NETWORK
+http://dootvthai-hd.com/cmd/api/true/FOOD-NETWORK-HD/playlist.m3u8
+#EXTINF:52 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", ASIAN FOOD NETWORK
+http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
+#EXTINF:53 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", BLUEANT ENTERTAINMENT
+http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-ENTERTAINMENT/playlist.m3u8
+#EXTINF:54 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", BLUEANT EXTREME
+http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-EXTREME/playlist.m3u8
+#EXTINF:55 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", OUTDOOR CHANNEL
+http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
+#EXTINF:56 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", ALJAZEERA
+https://tv.ztvthai.online/androidboxm3u/aljazeera.m3u8
+#EXTINF:57 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CNN
+https://tv.ztvthai.online/androidboxm3u/cnn-hd.m3u8
+#EXTINF:58 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", BBC WORLD NEWS
+https://tv.ztvthai.online/androidboxm3u/bbc-world-news.m3u8
+#EXTINF:59 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", ABC AUSTRALIA
+https://tv.ztvthai.online/androidboxm3u/australia-network.m3u8
+#EXTINF:60 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", BLOOMBERG
+https://tv.ztvthai.online/androidboxm3u/bloomberg.m3u8
+
+#EXTINF:61 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", DISCOVERY
+http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
+#EXTINF:62 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", NGC
+http://dootvthai-hd.com/cmd/api/true/national-geographic-hd/playlist.m3u8
+#EXTINF:63 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", HISTORY
+http://dootvthai-hd.com/cmd/api/true/history-channel-hd/playlist.m3u8
+#EXTINF:64 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", H2
+http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
+#EXTINF:65 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", ANIMAL PLANET
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:66 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", DISCOVERY ASIA
+https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/playlist.m3u8
+#EXTINF:67 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CRIME & INVESTIGATION
+http://203.154.177.124:8080/live/ch23/playlist.m3u8
+#EXTINF:68 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE EXPLORE WILD
+http://dootvthai-hd.com/cmd/true/true-explore-wild/playlist.m3u8
+#EXTINF:69 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE EXPLORE SCI
+http://dootvthai-hd.com/cmd/true/true-explore-sci/playlist.m3u8
+#EXTINF:70 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE EXPLORE LIFE
+http://dootvthai-hd.com/cmd/true/true-explore-life/playlist.m3u8
+
+#EXTINF:71 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CARTOON NETWORK
+http://dootvthai-hd.com/cmd/api/true/cartoon-network-hd/playlist.m3u8
+#EXTINF:72 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", NICK
+http://dootvthai-hd.com/cmd/true/nickelodeon/playlist.m3u8
+#EXTINF:73 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", DISNEY CHANNEL
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:74 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", ANIMAX
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+#EXTINF:75 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TOONEE
+https://tv.ztvthai.online/androidboxm3u/toonee.m3u8
+#EXTINF:76 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE SPARK JUMP
+http://dootvthai-hd.com/cmd/true/TRUE-SPARK-JUMP/playlist.m3u8
+#EXTINF:77 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE SPARK PLAY
+http://dootvthai-hd.com/cmd/true/TRUE-SPARK-PLAY/playlist.m3u8
+#EXTINF:78 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CARTOON CLUB
+https://tv.ztvthai.online/androidboxm3u/cartoonclub.m3u8
+#EXTINF:79 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", MIAOMI
+http://203.154.177.124:8899/live/ch20/playlist.m3u8
+#EXTINF:80 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", DISNEY XD
+http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
+
+#EXTINF:81 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE PREMIER LEAGUE 1
+http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
+#EXTINF:82 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE PREMIER LEAGUE 2
+http://dootvthai-hd.com/cmd/true/ep1-2/playlist.m3u8
+#EXTINF:83 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE PREMIER LEAGUE 3
+http://dootvthai-hd.com/cmd/true/ep1-3/playlist.m3u8
+#EXTINF:84 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE PREMIER LEAGUE 4
+http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
+#EXTINF:85 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE PREMIER LEAGUE 5
+http://dootvthai-hd.com/cmd/true/ep1-5/playlist.m3u8
+#EXTINF:86 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", MOTOR VISION HD
+http://dootvthai-hd.com/cmd/api/true/MOTOR-VISION/playlist.m3u8
+#EXTINF:87 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", FOX SPORTS 1
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-HD/playlist.m3u8
+#EXTINF:88 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", FOX SPORTS 2
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-2-HD/playlist.m3u8
+#EXTINF:89 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", FOX SPORTS 3
+http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-3/playlist.m3u8
+#EXTINF:90 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRACE SPORT STAR
+http://203.154.177.124:8899/live/ch10/playlist.m3u8
+#EXTINF:91 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE SPORTS HD
+http://dootvthai-hd.com/cmd/api/true/Truesport-HD/playlist.m3u8
+#EXTINF:92 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE SPORTS HD 2
+http://dootvthai-hd.com/cmd/api/true/Truesport-HD2/playlist.m3u8
+#EXTINF:93 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE SPORTS HD 3
+http://dootvthai-hd.com/cmd/api/true/Truesport-HD3/playlist.m3u8
+#EXTINF:94 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE SPORTS HD 4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:95 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE SPORTS 2
+http://dootvthai-hd.com/cmd/api/true/Truesport-2/playlist.m3u8
+#EXTINF:96 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE SPORTS 5
+http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
+#EXTINF:97 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE SPORTS 7
+http://dootvthai-hd.com/cmd/api/true/Truesport-7/playlist.m3u8
+#EXTINF:98 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TRUE TENNIS HD
+http://dootvthai-hd.com/cmd/api/true/TRUE-TENNIS-HD/playlist.m3u8
+#EXTINF:99 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", NBA TV
+http://dootvthai-hd.com/cmd/true/NBA-TV/playlist.m3u8
+#EXTINF:100 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", NFL NETWORK
+http://dootvthai-hd.com/cmd/true/NFL-NETWORK/playlist.m3u8
