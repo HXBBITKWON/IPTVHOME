@@ -204,3 +204,44 @@ http://dootvthai-hd.com/cmd/api/true/TRUE-TENNIS-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/NBA-TV/playlist.m3u8
 #EXTINF:100 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", NFL NETWORK
 http://dootvthai-hd.com/cmd/true/NFL-NETWORK/playlist.m3u8
+
+#EXTINF:101 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", KBS 1
+http://121.130.210.101:9981/stream/channelid/637185705
+#EXTINF:102 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", KBS 2
+http://121.130.210.101:9981/stream/channelid/715700199
+#EXTINF:103 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", EBS 1
+http://121.130.210.101:9981/stream/channelid/919139038
+#EXTINF:104 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", EBS 2
+http://121.130.210.101:9981/stream/channelid/1991398168
+#EXTINF:105 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", YTN
+http://1.255.204.45:9981/stream/channelid/378732678
+#EXTINF:106 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TV CHOSUN
+http://222.239.213.20:9981/stream/channelid/710662512
+#EXTINF:107 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", MBC
+http://121.130.210.101:9981/stream/channelid/2080997794
+#EXTINF:108 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", SBS
+http://121.130.210.101:9981/stream/channelid/452261212
+#EXTINF:109 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", JTBC
+http://222.239.213.20:9981/stream/channelid/2128770777
+#EXTINF:110 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", CHANNEL A
+http://1.255.204.45:9981/stream/channelid/310289729
+#EXTINF:111 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", TVN
+http://live.yingtaotvapp.com/TVN/index.m3u8
+#EXTINF:112 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", OCN
+http://live.yingtaotvapp.com/OCN/index.m3u8
+#EXTINF:113 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", OBS
+http://222.239.213.20:9981/stream/channelid/1796976963
+#EXTINF:114 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", MBN
+http://live.yingtaotvapp.com/MBN/index.m3u8
+#EXTINF:115 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", OCN MOVIES
+http://live.yingtaotvapp.com/CGV/index.m3u8
+#EXTINF:116 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", MPLEX
+http://live.yingtaotvapp.com/Mplex/index.m3u8
+#EXTINF:117 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", SPOTV
+http://live.yingtaotvapp.com/SPOTV/index.m3u8
+#EXTINF:118 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", SPOTV 2
+http://live.yingtaotvapp.com/SPOTV2/index.m3u8
+#EXTINF:119 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", KBS JOY
+http://live.yingtaotvapp.com/KBSJoy/index.m3u8
+#EXTINF:120 tvg-logo="https://sv1.picz.in.th/images/2020/10/16/b0gDdu.png", MBC EVERY1
+http://live.yingtaotvapp.com/MBCevery1/index.m3u8
